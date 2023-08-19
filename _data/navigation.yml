@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
     #https://scholar.google.com/citations?user=6nGP2ysAAAAJ&hl=en&authuser=1
@@ -10,8 +13,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+
         
   - title: "Blog Posts"
     url: /year-archive/
