@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TDL's page"
+title: "Tran Duc Le"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
