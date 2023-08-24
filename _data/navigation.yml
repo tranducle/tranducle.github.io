@@ -15,17 +15,16 @@ main:
 
  # - title: "Talks"
   #  url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-
-        
   - title: "Blog Posts"
     url: https://lepuchin.com/
+
+  - title: "Teaching"
+    url: /teaching/ 
+   
     
-  - title: "CV"
-    url: /files/CV2023.pdf
+    
+  #- title: "CV"
+ #   url: /files/CV2023.pdf
     
   #- title: "Guide"
    # url: /markdown/
