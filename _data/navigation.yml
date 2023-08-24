@@ -18,7 +18,7 @@ main:
 
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://lepuchin.com/
     
   - title: "CV"
     url: /files/CV2023.pdf
