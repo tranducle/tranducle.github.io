@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News"
-    url: /news/
+ # - title: "News"
+ #   url: /news/
   - title: "Projects"
     url: /projects/
   - title: "NetSec-Lab"
@@ -21,7 +21,7 @@ main:
   - title: "Teaching"
     url: /teaching/ 
   - title: "Service"
-    url: /secvice/ 
+    url: /service/ 
    - title: "Qualification"
     url: /qualification/ 
     
