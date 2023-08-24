@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(/images/netsecitdut_logo.png){: .align-right width="300px"}
+![NetSec-ITDUT Lab](/images/netsecitdut_logo.png){: .align-right width="300px"}
 **Dr. Tran Duc Le** is a lecturer in the Department of Computer Networking and Communication at [the University of Science and Technology, The University of Danang](https://dut.udn.vn/) in Vietnam. He received [his Ph.D.](https://www.sut.ru/bonchnews/science/4767-pozdravlyaem-s-zaschitoy-dissertacii) in Systems, Networks, and Telecommunication Devices from [the Bonch-Bruevich Saint Petersburg State University of Telecommunications](https://www.sut.ru/) in Russia in 2018 with his supervisor - [Prof. Ol'ga Simonina](https://www.sut.ru/education/fakulteti-i-instituti/rts/rsiv/753-simonina-olga-aleksandrovna-2)
 
 He is currently a postdoctoral researcher at [the Université du Québec à Trois-Rivières, Québec, Canada](https://www.uqtr.ca/), working under the supervision of [Prof. Thang Le-Dinh](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1220) and [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307) focusing on cybersecurity analytics.
