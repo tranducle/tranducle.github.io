@@ -22,8 +22,7 @@ main:
     url: /teaching/ 
   - title: "Service"
     url: /service/ 
-   - title: "Qualification"
-    url: /qualification/ 
+  
     
     
   #- title: "CV"
