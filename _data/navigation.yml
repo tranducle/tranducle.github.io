@@ -4,6 +4,8 @@ main:
     url: /news/
   - title: "Projects"
     url: /projects/
+  - title: "NetSec-Lab"
+    url: https://netsec-it.dut.udn.vn/
   #- title: "Portfolio"
   #  url: /portfolio/
     
