@@ -15,6 +15,6 @@ He is currently a postdoctoral researcher at [the Université du Québec à Troi
 
 His research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. He leads the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at his university in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
 
-He has published several journal articles and conference papers on topics such as malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. He has received awards for his research, including an Outstanding Paper Award at ICACT2020, and ICACNC2022.
+He has published several journal articles and conference papers on malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. He has received awards for his research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
 
 Dr. Le teaches computer networks, network administration, malware analysis, network security, and network penetration testing courses at his university in Vietnam. He aims to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
