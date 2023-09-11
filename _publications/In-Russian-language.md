@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/In Russian language
 
 ---
-[13] До, Ф. Х., Ле, Ч. Д., Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. Инновационное приоростроение, 2(2), 64-75, 2023.
-(_English: [13] Do, Phuc Hao, Le, Tran Duc, Zuikov, M. A., Berezkin, A. A., Kirichek., R. V. Predictive analytics research based on a microcontroller using TinyML methods. Innovative Instrumentation, 2(2), 64-75, 2023._)
-[12] Ле, Дык Чан, Фам, Мау Хоа, Динь, ЧЗ, До, Хао Фук. Применение алгоритмов машинного обучения для обнаружения вредоносных программ в операционной системе Windows с помощью PE-заголовка. Информационно-управляющие системы, 4 (119), 44-57, 2022.
-(_English: [12]Le, Tran Duc, Pham, Hoa Mau, Dinh, Truong Duy, Do, Phuc Hao. Applying machine learning algorithms for PE-header-based malware detection on the Windows operating system. Informatsionno-Upravliaiushchie Sistemy, (4), 44-57, 2022.) (**Scopus Q4**)_
+[13] До, Ф. Х., Ле, Ч. Д., Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. Инновационное приоростроение, 2(2), 64-75, 2023.  
+(_English: [13] Do, Phuc Hao, Le, Tran Duc, Zuikov, M. A., Berezkin, A. A., Kirichek., R. V. Predictive analytics research based on a microcontroller using TinyML methods. Innovative Instrumentation, 2(2), 64-75, 2023._)  
+[12] Ле, Дык Чан, Фам, Мау Хоа, Динь, ЧЗ, До, Хао Фук. Применение алгоритмов машинного обучения для обнаружения вредоносных программ в операционной системе Windows с помощью PE-заголовка. Информационно-управляющие системы, 4 (119), 44-57, 2022.  
+(_English: [12]Le, Tran Duc, Pham, Hoa Mau, Dinh, Truong Duy, Do, Phuc Hao. Applying machine learning algorithms for PE-header-based malware detection on the Windows operating system. Informatsionno-Upravliaiushchie Sistemy, (4), 44-57, 2022.) (**Scopus Q4**)_  
 [11] Ле, Ч.Д. Анализ использования определения значения TXOP в IEEE 802.11e. 72-я СПбНТОЭС, 223-224.
 (_English: [11] Le, Tran Duc Analysis of Utilizing the TXOP Definition in IEEE 802.11e. In the 72nd Russian Conference on Radiotechnics, Electronics, and Communications in Honor of A. S. Popov, 223-224., 2017._)
 [10] Ле, Ч.Д. Поддержка QoS в WLAN: механизм конкуренции или механизм опроса. Перспектвные технологии в средствах передачи информации – ПТСПИ-2017, 1, 140-146, 2017.
