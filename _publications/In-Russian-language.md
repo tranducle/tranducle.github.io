@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/In Russian language
 
 ---
-[13] До, Ф. Х.,** Ле, Ч. Д.**, Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. _Инновационное приоростроение_, 2(2), 64-75, 2023.  
+[13] До, Ф. Х., **Ле, Ч. Д.**, Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. _Инновационное приоростроение_, 2(2), 64-75, 2023.  
 (_English: [13] Do, Phuc Hao, Le, Tran Duc, Zuikov, M. A., Berezkin, A. A., Kirichek., R. V. Predictive analytics research based on a microcontroller using TinyML methods. Innovative Instrumentation, 2(2), 64-75, 2023._)  
 
-[12]** Ле, Дык Чан**, Фам, Мау Хоа, Динь, ЧЗ, До, Хао Фук. Применение алгоритмов машинного обучения для обнаружения вредоносных программ в операционной системе Windows с помощью PE-заголовка. _Информационно-управляющие системы_, 4 (119), 44-57, 2022.  
-(_English: [12]Le, Tran Duc, Pham, Hoa Mau, Dinh, Truong Duy, Do, Phuc Hao. Applying machine learning algorithms for PE-header-based malware detection on the Windows operating system. Informatsionno-Upravliaiushchie Sistemy, (4), 44-57, 2022.) (**Scopus Q4**)_  
+[12]**Ле, Дык Чан**, Фам, Мау Хоа, Динь, ЧЗ, До, Хао Фук. Применение алгоритмов машинного обучения для обнаружения вредоносных программ в операционной системе Windows с помощью PE-заголовка. _Информационно-управляющие системы_, 4 (119), 44-57, 2022.  
+(_English: [12] Le, Tran Duc, Pham, Hoa Mau, Dinh, Truong Duy, Do, Phuc Hao. Applying machine learning algorithms for PE-header-based malware detection on the Windows operating system. Informatsionno-Upravliaiushchie Sistemy, (4), 44-57, 2022.) (**Scopus Q4**)_  
 
 [11] **Ле, Ч.Д.** Анализ использования определения значения TXOP в IEEE 802.11e. _72-я СПбНТОЭС_, 223-224.  
 (_English: [11] Le, Tran Duc Analysis of Utilizing the TXOP Definition in IEEE 802.11e. In the 72nd Russian Conference on Radiotechnics, Electronics, and Communications in Honor of A. S. Popov, 223-224., 2017._)  
@@ -19,10 +19,10 @@ permalink: /publication/In Russian language
 [9] **Ле, Ч.Д.**, Симонина, О.А. Механизм мультиопроса в высокоплотных сетях IEEE 802.11. _Технологии и средства связи_, 1, 39-41, 2017.  
 (_English: [9] Le, Tran Duc, Simonina, Оlga. The Mechanism of Multipolling in High-Density Networks IEEE 802.11. Proceedings of Telecommunication Universities, 1, 39-41, 2017._)  
 
-[8] Ле, Ч.Д., Симонина, О.А. Механизм мультиопроса на основе приоритизации для WLAN с высокой плотностью устройств. _Труды учебных заведений связи_, 3(1), 80-92, 2017.  
+[8] **Ле, Ч.Д.**, Симонина, О.А. Механизм мультиопроса на основе приоритизации для WLAN с высокой плотностью устройств. _Труды учебных заведений связи_, 3(1), 80-92, 2017.  
 (_English: [8] Le, Tran Duc, Simonina, Olga. The Multipolling mechanism based on the prioritization for WLAN in a high dense networks. Proceedings of Telecommunication Universities, 3(1), 80-92, 2017._)  
 
-[7] Ле, Чан Дык. Анализ производительности высокоплотной WLAN с многими точками доступа посредством моделирования в OPNET. T-Comm-Телекоммуникации и Транспорт, 11(3), 56-61, 2017.  
+[7] **Ле, Чан Дык**. Анализ производительности высокоплотной WLAN с многими точками доступа посредством моделирования в OPNET. T-Comm-Телекоммуникации и Транспорт, 11(3), 56-61, 2017.  
 (_English: [7] Le, Tran Duc. Performance Analysis of the High Dense WLAN Network with Multiple Access Points Using OPENT Modeler. T-Comm, 11(3), 56-61, 2017._)  
 
 [6] **Ле, Чан Дык** and Симонина, Ольга Александровна. Механизм приоритезации для обеспечения минимизации задержки в условиях конкурентной среды в сетях Wi-Fi с плотным распределенем устройств. _Информационные системы и технологии_, 95(3), 99, 2016.  
