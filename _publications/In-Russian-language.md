@@ -1,3 +1,9 @@
+---
+layout: default
+title: Publications
+permalink: /publications/In-Russian-language
+---
+
 [13] До, Ф. Х., **Ле, Ч. Д.**, Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. _Инновационное приоростроение_, 2(2), 64-75, 2023.  
 (_English: [13] Do, Phuc Hao, Le, Tran Duc, Zuikov, M. A., Berezkin, A. A., Kirichek., R. V. Predictive analytics research based on a microcontroller using TinyML methods. Innovative Instrumentation, 2(2), 64-75, 2023._)  
 
