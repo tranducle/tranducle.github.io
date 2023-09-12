@@ -3,7 +3,6 @@ permalink: /
 title: "Publications"
 redirect_from: 
   - /publications/
-  - /publications.html
 ---
 
 **UNDER REVIEW OR ACCEPTED**  
