@@ -1,3 +1,8 @@
 .page__content {
     padding-left: 20px; /* Bạn có thể tăng hoặc giảm giá trị này để điều chỉnh khoảng cách từ lề */
 }
+
+.publications-content {
+  padding-left: 20px;
+}
+
