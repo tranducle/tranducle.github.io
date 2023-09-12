@@ -1,8 +1,5 @@
 .custom-content {
     padding-left: 20px;
-}
-
-.custom-content {
+    padding-right: 20px; /* Thêm dòng này */
     text-align: justify;
 }
-
