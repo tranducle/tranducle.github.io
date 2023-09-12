@@ -5,7 +5,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-<div style="text-align: justify">
+
 **UNDER REVIEW OR ACCEPTED**  
 
 [51] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)  
@@ -146,4 +146,4 @@ redirect_from:
 
 [1] **Ле, Чан Дык**. Модель междоменного взаимодействия в SDN с использованием двух контролеров. _68-я региональная научно-техническая конференция студентов, аспирантов и молодых ученых «Студенческая весна – 2014» (68 РНТК)_, том 1, 99-104.  
 (_English: [1] Le, Tran Duc. Interdomain Interaction Model in Software-Defined Networking Using Two Controllers. In The 68th Regional Scientific and Technical Conference for Students, Postgraduates, and Young Researchers: "Student Spring – 2014", vol. 1, 99-104._)  
-</div>
+
