@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Publications
-permalink: /publications/In-Russian-language
+permalink: /
+title: "Publications"
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 [13] До, Ф. Х., **Ле, Ч. Д.**, Зуйков, М. А., Берёзкин, А. А., Киричёк, Р. В. Исследование предиктивнй аналитики на базе микроконтроллера с применением методов TinyML. _Инновационное приоростроение_, 2(2), 64-75, 2023.  
