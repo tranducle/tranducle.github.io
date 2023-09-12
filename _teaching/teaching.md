@@ -16,7 +16,7 @@ permalink: /teaching/
 
 My educational philosophy centres on maximizing student potential through three main actions - recommending suitable reference materials, encouraging student motivation and effort, and adapting my teaching methods to different learners.  
 
-![Teaching Statement](/images/teachingstatement.PNG){: .align-center width="300px"}
+![Teaching Statement](/images/teachingstatement.PNG){: .align-center width="800px"}
 
 I believe finding the right reference materials or "textbooks" for each student is crucial for effective learning. I introduce students to a variety of relevant textbooks and allow them to choose which one aligns best with their needs and learning style. I learned this through experience - after some students struggled with an advanced textbook, I offered alternatives more suited to their level, leading to improved performance.  
 
