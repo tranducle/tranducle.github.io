@@ -5,7 +5,6 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /publicaions/publications.md
-  - /publications/publications.html
 ---
 
 
