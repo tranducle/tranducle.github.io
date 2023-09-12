@@ -1,9 +1,13 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publication"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /publicaions/publications.md
+  - /publications/publications.html
 ---
+
 
 **UNDER REVIEW OR ACCEPTED**  
 
