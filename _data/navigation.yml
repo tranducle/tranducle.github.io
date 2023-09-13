@@ -15,8 +15,9 @@ main:
 
  # - title: "Talks"
   #  url: /talks/    
-   - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/ 
+    
   - title: "Blog Posts"
     url: https://lepuchin.com/
 
