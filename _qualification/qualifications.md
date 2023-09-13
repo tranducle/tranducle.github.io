@@ -3,6 +3,7 @@ layout: page
 title: Certifications
 permalink: /qualification/
 ---
+**CERTIFICATIONS**  
 
 **Hands-on Introduction to Linux Commands and Shell Scripting**  
 _IBM, 2023_  
