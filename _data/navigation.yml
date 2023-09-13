@@ -2,8 +2,8 @@
 main:
  # - title: "News"
  #   url: /news/
-  - title: "Projects"
-    url: /projects/
+  - title: "Research"
+    url: /research/
   - title: "NetSec-Lab"
     url: https://netsec-it.dut.udn.vn/
   #- title: "Portfolio"
@@ -15,11 +15,12 @@ main:
 
  # - title: "Talks"
   #  url: /talks/    
+   - title: "Teaching"
+    url: /teaching/ 
   - title: "Blog Posts"
     url: https://lepuchin.com/
 
-  - title: "Teaching"
-    url: /teaching/ 
+ 
   - title: "Qualification"
     url: /qualification/ 
   - title: "Service"
