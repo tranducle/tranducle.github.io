@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  qualification:
+    output: true
+    permalink: /:collection/:path/
   service:
     output: true
     permalink: /:collection/:path/
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _qualification
+  - scope:
+      path: ""
+      type: qualification
     values:
       layout: single
       author_profile: true
