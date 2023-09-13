@@ -13,7 +13,7 @@ I am a lecturer in the Department of Computer Networking and Communication at [t
 
 I am currently a postdoctoral researcher at [the Université du Québec à Trois-Rivières, Québec, Canada](https://www.uqtr.ca/), working under the supervision of [Prof. Thang Le-Dinh](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1220) and [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307) focusing on cybersecurity analytics.
 
-My research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. I lead the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at his university in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
+My research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. I lead the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at my university in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
 
 I have published several journal articles and conference papers on malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. I have received awards for my research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
 
