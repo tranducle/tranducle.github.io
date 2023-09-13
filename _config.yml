@@ -193,7 +193,9 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
-
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -263,6 +265,15 @@ defaults:
   - scope:
       path: ""
       type: qualification
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
