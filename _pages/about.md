@@ -18,3 +18,7 @@ My research interests include network security, malware analysis, malware detect
 I have published several journal articles and conference papers on malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. I have received awards for my research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
 
 I teach computer networks, network administration, malware analysis, network security, and network penetration testing courses at my university in Vietnam. I aim to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
+
+---------------------------------------------------------------
+📢 **NEWS**  
+    ✍️ 2023/09/14: My new post on the Security Brief series: [Security Brief - P6 - Easter-egg in Cybersecurity](https://lepuchin.com/security-brief-p6)
