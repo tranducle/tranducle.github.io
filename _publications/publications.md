@@ -33,7 +33,7 @@ permalink: /publications/
 
 **2023**  
 
-[40] Nguyen, Nghia Thinh, Ninh, Duy Khanh, Pham, Van Dai, **Le, Tran Duc**. DTTP Model-A Deep Learning-Based Model for Detecting and Tracking Target Person. _Lecture Notes in Networks and Systems_, vol. 752, Springer, 581-590, 2023.  
+[40] Nguyen, Nghia Thinh, Ninh, Duy Khanh, Pham, Van Dai, **Le, Tran Duc**. [DTTP Model-A Deep Learning-Based Model for Detecting and Tracking Target Person](https://link.springer.com/chapter/10.1007/978-981-99-4725-6_69). _Lecture Notes in Networks and Systems_, vol. 752, Springer, 581-590, 2023.  
 
 [39] Dam, Tien Quang, Ninh, Duy Khanh, Le, Anh Ngoc, Pham, Van Dai, **Le, Tran Duc**. Danaflood: A Solution for Scalable Urban Street Flood Sensing. _Lecture Notes in Networks and Systems_, vol. 752, Springer, 546-555, 2023.  
 
