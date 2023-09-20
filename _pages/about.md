@@ -21,5 +21,6 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
-✍️ 2023/09/14: My new post on the Security Brief series: [Security Brief - P6 - Easter-egg in Cybersecurity](https://lepuchin.com/security-brief-p6)  
 ✍️ 2023/09/20: My new post on the Security Brief series: [Security Brief - P7 - Intelligence Fusion](https://lepuchin.com/security-brief-p7-intelligence-fusion)
+✍️ 2023/09/14: My new post on the Security Brief series: [Security Brief - P6 - Easter-egg in Cybersecurity](https://lepuchin.com/security-brief-p6)  
+
