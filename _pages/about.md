@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2023/10/07: My new post on the Security Brief series: [Security Brief - P9 - Jumpbox](https://lepuchin.com/security-brief-p9-jumpbox)
+
 ✍️ 2023/09/30: My new post on the Platforms to Learn Cybersecurity: [Platforms to Learn Cybersecurity](https://lepuchin.com/platforms-to-learn-cybersecurity)
 
 ✍️ 2023/09/27: A re-post on the Digital Forensics tools: [Top Digital Forensics Tools](https://lepuchin.com/top-digital-forensics-tools)
