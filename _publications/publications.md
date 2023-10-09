@@ -8,9 +8,11 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
+[52] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises. _Technology in Society_, 2023. (_Under review_)
+
 [51] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)  
 
-[50] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach. _Journal of Universal Computer Science (J.UCS)_, 2023. (_Under review_)  
+[50] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach. _Journal of Universal Computer Science (J.UCS)_, 2023. (_Accepted_)  
 
 [49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Under review_) 
 
