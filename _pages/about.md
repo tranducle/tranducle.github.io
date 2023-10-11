@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🗣️ 2023/10/11: Our collegue - MSc. Phuc Hao Do, a Ph.D. student at the Bonch-Bruevich Saint Petersburg State University of Telecommunications, Saint-Petersburg, Russia, is going to present our paper titled "**Enhancing Satellite Communication Efficiency through AI-Based Traffic Prioritization**" at [ICACNGC 2023](https://icacnc.com/) on October 12th, 2023. [Conference's Program.](/files/icacnc2023.pdf)
+
 🥳 2023/10/09: Congratulations on the newly accepted paper of our research team: "**Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach**" in _JUCS - Journal of Universal Computer Science_. (**SCIE Q3**)
 
 ✍️ 2023/10/07: My new post on the Security Brief series: [Security Brief - P9 - Jumpbox](https://lepuchin.com/security-brief-p9-jumpbox)
