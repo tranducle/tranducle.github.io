@@ -14,9 +14,9 @@ permalink: /publications/
 
 [50] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach. _Journal of Universal Computer Science (J.UCS)_, 2023. (_Accepted_)  
 
-[49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Under review_) 
+[49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_) 
 
-[48] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Under review_)  
+[48] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_)  
 
 [47] Le, Viet Trung, Do, Phuc Hao, Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study. _In The 10th International Conference on Future Data and Security Engineering (FDSE)_, Springer, 2023. (_Accepted_)  
 
