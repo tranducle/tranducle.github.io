@@ -21,6 +21,10 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2023/10/17: Congratulations Phuc Hao Do, on the newly accepted papers at [SOICT 2023](https://soict.org/). The accepted papers: "_Leveraging FFT and Hybrid Efficientnet for Enhanced Action Recognition in Video Sequences_".
+
+✍️ 2023/10/16: My new post on the Security Brief series: [Security Brief - P10 - Understanding RAID](https://lepuchin.com/security-brief-p10-understanding-raid)
+
 🥳 2023/10/11: Congratulations on the newly accepted papers of our research team at [RIVF 2023](https://rivf2023.org/). This year, we have two accepted papers:  
 - _SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs_    
 - _Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis_  
