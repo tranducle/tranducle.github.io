@@ -20,20 +20,19 @@ permalink: /publications/
 
 [47] Le, Viet Trung, Do, Phuc Hao, Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study. _In The 10th International Conference on Future Data and Security Engineering (FDSE)_, Springer, 2023. (_Accepted_)  
 
-[46] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective. _In IET/IEEE_, 2023. (_Accepted_)  
+[46] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[45] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[45] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[44] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[44] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[43] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[43] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
 
-[42] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
-
-[41] **Le, Tran Duc**. Exploring Common Malware Persistence Techniques on Windows OS for Enhanced Cybersecurity Management: Detection and Mitigation Strategies. _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, Dec. 2023. (_Book chapter_, _Accepted_)  
+[42] **Le, Tran Duc**. Exploring Common Malware Persistence Techniques on Windows OS for Enhanced Cybersecurity Management: Detection and Mitigation Strategies. _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, Dec. 2023. (_Book chapter_, _Accepted_)  
 
 
 **2023**  
+[41] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective. _Artificial Intelligence for Biometrics and Cybersecurity: Technology and applications_, Institution of Engineering and Technology (IET), 149–174, 2023. 
 
 [40] Nguyen, Nghia Thinh, Ninh, Duy Khanh, Pham, Van Dai, **Le, Tran Duc**. [DTTP Model-A Deep Learning-Based Model for Detecting and Tracking Target Person](https://link.springer.com/chapter/10.1007/978-981-99-4725-6_69). _Lecture Notes in Networks and Systems_, vol. 752, Springer, 581-590, 2023.  
 
