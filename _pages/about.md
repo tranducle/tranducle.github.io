@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2023/10/22: My first blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P1 - Access Control](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P1-Access-Control)
+
 🥳 2023/10/17: Congratulations Phuc Hao Do, on the newly accepted papers at [SOICT 2023](https://soict.org/). The accepted paper: "_Leveraging FFT and Hybrid Efficientnet for Enhanced Action Recognition in Video Sequences_".
 
 ✍️ 2023/10/16: My new post on the Security Brief series: [Security Brief - P10 - Understanding RAID](https://lepuchin.com/security-brief-p10-understanding-raid)
