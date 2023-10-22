@@ -33,7 +33,7 @@ permalink: /publications/
 
 **2023**  
 
-[41] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective. _Artificial Intelligence for Biometrics and Cybersecurity: Technology and applications_, Institution of Engineering and Technology (IET), 149–174, 2023. 
+[41] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. [A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective](https://digital-library.theiet.org/content/books/10.1049/pbse020e_ch7;jsessionid=829ik2rri6qqo.x-iet-live-01). _Artificial Intelligence for Biometrics and Cybersecurity: Technology and applications_, Institution of Engineering and Technology (IET), 149–174, 2023. 
 
 [40] Nguyen, Nghia Thinh, Ninh, Duy Khanh, Pham, Van Dai, **Le, Tran Duc**. [DTTP Model-A Deep Learning-Based Model for Detecting and Tracking Target Person](https://link.springer.com/chapter/10.1007/978-981-99-4725-6_69). _Lecture Notes in Networks and Systems_, vol. 752, Springer, 581-590, 2023.  
 
