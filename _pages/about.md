@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2023/11/12: My new post on the Security Brief series: [Security Brief - P11 - Zero Trust Architecture (ZTA)](https://lepuchin.com/security-brief-p11-zero-trust-architecture-zta)
+
 🥳 2023/11/12: I'm excited to share that my latest chapter on exploring common malware persistence methods has just been published: [Exploring Common Malware Persistence Techniques on Windows Operating Systems (OS) for Enhanced Cybersecurity Management](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003369042-7/exploring-common-malware-persistence-techniques-windows-operating-systems-os-enhanced-cybersecurity-management-duc-tran-le-truong-duy-dinh-phuoc-hoang-tan-nguyen-ammar-muthanna-ahmed-abd-el-latif) 
 
 ✍️ 2023/10/22: My first blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P1 - Access Control](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P1-Access-Control)
