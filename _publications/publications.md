@@ -28,10 +28,10 @@ permalink: /publications/
 
 [43] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
 
-[42] **Le, Tran Duc**. Exploring Common Malware Persistence Techniques on Windows OS for Enhanced Cybersecurity Management: Detection and Mitigation Strategies. _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, Dec. 2023. (_Book chapter_, _Accepted_)  
-
 
 **2023**  
+
+[42] **Tran Duc Le**, Truong Duy Dinh, Phuoc Hoang Tan Nguyen, Ammar Muthanna, Ahmed A. Abd El-Latif. [Exploring Common Malware Persistence Techniques on Windows Operating Systems (OS) for Enhanced Cybersecurity Management: Detection and Mitigation Strategies](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003369042-7/exploring-common-malware-persistence-techniques-windows-operating-systems-os-enhanced-cybersecurity-management-duc-tran-le-truong-duy-dinh-phuoc-hoang-tan-nguyen-ammar-muthanna-ahmed-abd-el-latif). _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, 107-149, 2023.  
 
 [41] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. [A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective](https://digital-library.theiet.org/content/books/10.1049/pbse020e_ch7;jsessionid=829ik2rri6qqo.x-iet-live-01). _Artificial Intelligence for Biometrics and Cybersecurity: Technology and applications_, Institution of Engineering and Technology (IET), 149–174, 2023. 
 
