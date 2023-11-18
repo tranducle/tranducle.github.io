@@ -18,18 +18,18 @@ permalink: /publications/
 
 [48] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_)  
 
-[47] Le, Viet Trung, Do, Phuc Hao, Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study. _In The 10th International Conference on Future Data and Security Engineering (FDSE)_, Springer, 2023. (_Accepted_)  
+[47] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[46] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[46] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[45] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[45] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[44] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[43] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
+[44] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
 
 
 **2023**  
+
+[43] Le, Viet Trung, Do, Phuc Hao, Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. [Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study](https://link.springer.com/chapter/10.1007/978-981-99-8296-7_16). In _Future Data and Security Engineering. Big Data, Security and Privacy, Smart City and Industry 4.0 Applications. FDSE 2023. Communications in Computer and Information Science_, vol 1925. Springer, 226–239, 2023.  
 
 [42] **Tran Duc Le**, Truong Duy Dinh, Phuoc Hoang Tan Nguyen, Ammar Muthanna, Ahmed A. Abd El-Latif. [Exploring Common Malware Persistence Techniques on Windows Operating Systems (OS) for Enhanced Cybersecurity Management: Detection and Mitigation Strategies](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003369042-7/exploring-common-malware-persistence-techniques-windows-operating-systems-os-enhanced-cybersecurity-management-duc-tran-le-truong-duy-dinh-phuoc-hoang-tan-nguyen-ammar-muthanna-ahmed-abd-el-latif). _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, 107-149, 2023.  
 
