@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2023/12/06: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P2 - Anti-Virus](https://lepuchin.com/CyberChats-Season-A-P2-Anti-Virus)
+
 🥳 2023/11/17: I'm excited to announce that our research paper titled [Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study](https://link.springer.com/chapter/10.1007/978-981-99-8296-7_16) has been published in the Springer book series Communications in Computer and Information Science (CCIS).
 
 ✍️ 2023/11/12: My new post on the Security Brief series: [Security Brief - P11 - Zero Trust Architecture (ZTA)](https://lepuchin.com/security-brief-p11-zero-trust-architecture-zta)
