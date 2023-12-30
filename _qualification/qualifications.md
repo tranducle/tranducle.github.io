@@ -5,6 +5,9 @@ permalink: /qualification/
 ---
 **CERTIFICATIONS**  
 
+**Introduction to Cybersecurity**  
+_Cisco, 2023_ 
+
 **Hands-on Introduction to Linux Commands and Shell Scripting**  
 _IBM, 2023_  
 
