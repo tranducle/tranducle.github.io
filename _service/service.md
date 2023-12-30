@@ -5,15 +5,14 @@ permalink: /service/
 ---
 
 **Journal Reviewer**  
-• Journal of Network and Computer Applications  
 • Vietnam Journal of Computer Science  
 • The University of Danang - Journal of Science and Technology  
 
 **Conference Reviewer**  
 • RIVF 2023, CITA 2023, FDSE 2023
-• CITA 2022, ESREL 2022, IoT5GCYBER_CFC  
-• ICUMT 2021, MaDaIN 2021, BigComp 2021  
-• INTHITEN 2020, MaDaIN 2020  
+• CITA 2022 
+• MaDaIN 2021
+• MaDaIN 2020  
 
 **Conference Organizing Committees**  
 • MaDaIN 2021: The 2nd International Conference on Recent Advances in Machine Learning, Data Science, Intelligent Systems & Networking  
