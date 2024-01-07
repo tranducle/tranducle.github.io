@@ -5,6 +5,9 @@ permalink: /qualification/
 ---
 **CERTIFICATIONS**  
 
+**ISC2 Certified in Cybersecurity**  
+_ISC2, 2024_ 
+
 **Introduction to Cybersecurity**  
 _Cisco, 2023_ 
 
