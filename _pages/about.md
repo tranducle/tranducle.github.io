@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 202/01/14: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P3 - Advanced Persistent Threat](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P3-Advanced-Persistent-Threat)
+
 ✍️ 2024/01/10: My new post on the Security Brief series: [Security Brief - P13 - Birthday Attack](https://lepuchin.com/Security-Brief-P13-Birthday-Attack)
 
 🥳 2024/01/04: I'm excited to announce that I've passed the ISC2 Certified in Cybersecurity exam. Check my certification [here](https://www.credly.com/badges/70ce0c40-28ae-4aa9-8518-f05e6320747f/public_url).
