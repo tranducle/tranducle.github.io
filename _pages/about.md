@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/01/23: I'm excited to announce that our paper "_Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises_" has been accepted to be published in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) journal (**SCIE Q1, IF = 9.2**) 
+
 ✍️ 202/01/14: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P3 - Advanced Persistent Threat](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P3-Advanced-Persistent-Threat)
 
 ✍️ 2024/01/10: My new post on the Security Brief series: [Security Brief - P13 - Birthday Attack](https://lepuchin.com/Security-Brief-P13-Birthday-Attack)
