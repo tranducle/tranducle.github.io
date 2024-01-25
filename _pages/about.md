@@ -23,7 +23,7 @@ I teach computer networks, network administration, malware analysis, network sec
 📢 **NEWS**  
 🥳 2024/01/24: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" has been accepted to be presented at the [8th International Conference on Innovation in Artificial Intelligence - ICIAI 2024](https://www.iciai.org/index.html), Tokyo, Japan, March 2024.
 
-🥳 2024/01/23: I'm excited to announce that our paper "_Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises_" has been accepted to be published in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) journal (**SCIE Q1, IF = 9.2**) 
+🥳 2024/01/23: I'm excited to announce that our paper "_Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises_" has been accepted to be published in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) journal (**SSCI Q1, IF = 9.2**) 
 
 ✍️ 202/01/14: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P3 - Advanced Persistent Threat](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P3-Advanced-Persistent-Threat)
 
