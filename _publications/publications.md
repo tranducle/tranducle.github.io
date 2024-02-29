@@ -12,22 +12,23 @@ permalink: /publications/
 
 [52] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Nguyen, Chan Nam. Literature Review as a Service: A Human-Centered Artificial Intelligence Approach. _In 8th International Conference on Innovation in Artificial Intelligence (ICIAI)_, 2024. (_Accepted_)
 
-[51] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises. _Technology in Society_, 2024. (_Accepted_)
+[51] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_) 
 
-[50] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach. _Journal of Universal Computer Science (J.UCS)_, 2023. (_Accepted_)  
+[50] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_)  
 
-[49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_) 
+[49] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[48] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_)  
+[48] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[47] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[47] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[46] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[46] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
 
-[45] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+**2024**  
 
-[44] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
+[45] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises](https://www.sciencedirect.com/science/article/pii/S0160791X24000186). _Technology in Society_, Vol. 76, 102470, 2024. (SSCI Q1, IF = 9.2) 
 
+[44] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. [Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach](https://lib.jucs.org/article/104901/list/9/). _JUCS - Journal of Universal Computer Science_, 30(2), 262-286, 2024. (SCIE Q3, IF = 1.02)  
 
 **2023**  
 
