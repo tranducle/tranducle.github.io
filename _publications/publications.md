@@ -16,21 +16,21 @@ permalink: /publications/
 
 [50] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Accepted_)  
 
-[49] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
+[49] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[48] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[47] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[46] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
+[48] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
 
 **2024**  
 
-[45] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises](https://www.sciencedirect.com/science/article/pii/S0160791X24000186). _Technology in Society_, Vol. 76, 102470, 2024. (SSCI Q1, IF = 9.2) 
+[47] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises](https://www.sciencedirect.com/science/article/pii/S0160791X24000186). _Technology in Society_, Vol. 76, 102470, 2024. (SSCI Q1, IF = 9.2) 
 
-[44] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. [Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach](https://lib.jucs.org/article/104901/list/9/). _JUCS - Journal of Universal Computer Science_, 30(2), 262-286, 2024. (SCIE Q3, IF = 1.02)  
+[46] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. [Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach](https://lib.jucs.org/article/104901/list/9/). _JUCS - Journal of Universal Computer Science_, 30(2), 262-286, 2024. (SCIE Q3, IF = 1.02)  
 
 **2023**  
+
+[45] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. [Federated Learning for Linux Malware Detection: An Experimental Study](https://link.springer.com/chapter/10.1007/978-3-031-51097-7_6?fbclid=IwAR3I7ykdEHTVezfT1DR80u6HgSKVSldb1b1pZ2g3ZSP9FgNkHUJXY15bpsA). _EAI/Springer Innovations in Communication and Computing. Springer, Cham._, 63-75, 2023.  
+
+[44] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. [A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks](https://link.springer.com/chapter/10.1007/978-3-031-51097-7_18?fbclid=IwAR0Y4fViO4RORPP0_UbqVFjdsTWD6rqt1FQjK6k4PZYV2Y_xUCj8w9h0qw4). _EAI/Springer Innovations in Communication and Computing. Springer, Cham._, 227–240, 2023.  
 
 [43] Nguyen, Nang Hung Van, Do, Phuc Hao, Hoang, Van Nam, Borodko, Aleksandr, **Le, Tran Duc**. [Leveraging FFT and Hybrid EfficientNet for Enhanced Action Recognition in Video Sequences](https://dl.acm.org/doi/abs/10.1145/3628797.3628827). In _Proceedings of the 12th International Symposium on Information and Communication Technology, SoICT 2023_. ACM, 32-39, 2023.
 
