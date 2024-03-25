@@ -22,9 +22,9 @@ permalink: /publications/
 
 [48] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. [Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach](https://lib.jucs.org/article/104901/list/9/). _JUCS - Journal of Universal Computer Science_, 30(2), 262-286, 2024. (SCIE Q3, IF = 1.02)
 
-[47] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. [SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs](https://ieeexplore.ieee.org/document/10471850). _In The 2023 RIVF International Conference on Computing and Communication Technologies_, IEEE, 2024. 
+[47] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. [SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs](https://ieeexplore.ieee.org/document/10471850). _In The 2023 RIVF International Conference on Computing and Communication Technologies_, IEEE, 295-300, 2024. 
 
-[46] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. [Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis](https://ieeexplore.ieee.org/document/10471832). _In The 2023 RIVF International Conference on Computing and Communication Technologies_, IEEE, 2024. 
+[46] Do, Phuc Hao, Pham, Van Quan, **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. [Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis](https://ieeexplore.ieee.org/document/10471832). _In The 2023 RIVF International Conference on Computing and Communication Technologies_, IEEE, 452-457, 2024. 
 
 **2023**  
 
