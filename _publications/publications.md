@@ -14,9 +14,9 @@ permalink: /publications/
 
 [51] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
 
-[50] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
-
 **2024**  
+
+[50] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. [A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset](https://ieeexplore.ieee.org/document/10471929). _ICACT-Transactions on Advanced Communications Technology (TACT)_, IEEE, Vol. 12, Issue 3, 1494-1506, 2024. 
 
 [49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises](https://www.sciencedirect.com/science/article/pii/S0160791X24000186). _Technology in Society_, Vol. 76, 102470, 2024. (SSCI Q1, IF = 9.2) 
 
