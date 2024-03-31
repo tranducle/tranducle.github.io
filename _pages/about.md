@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/03/18: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" presented at the [ICIAI 2024](https://www.iciai.org/index.html) by Prof. Thang Le Dinh has been awarded _ICIAI Award_ for the _**Excellent Oral Presentation**_.
+
 ✍️ 2024/02/04: My new post on the Security Brief series: [Security Brief - P14 - Hardware Security Module](https://lepuchin.com/Security-Brief-P14-Hardware-Security-Module)
 
 🥳 2024/01/24: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" has been accepted to be presented at the [8th International Conference on Innovation in Artificial Intelligence - ICIAI 2024](https://www.iciai.org/index.html), Tokyo, Japan, March 2024.
