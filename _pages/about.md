@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/04/02: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P4 - Authentication](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P4-Authentication)
+
 🥳 2024/03/18: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" presented at the [ICIAI 2024](https://www.iciai.org/index.html) by Prof. Thang Le Dinh has been awarded _ICIAI Award_ for the _**Excellent Oral Presentation**_.
 
 ✍️ 2024/02/04: My new post on the Security Brief series: [Security Brief - P14 - Hardware Security Module](https://lepuchin.com/Security-Brief-P14-Hardware-Security-Module)
@@ -66,8 +68,4 @@ I teach computer networks, network administration, malware analysis, network sec
 ✍️ 2023/09/27: A re-post on the Digital Forensics tools: [Top Digital Forensics Tools](https://lepuchin.com/top-digital-forensics-tools)
 
 ✍️ 2023/09/26: My new post on the Security Brief series: [Security Brief - P8 - Directory Traversal](https://lepuchin.com/security-brief-p8-directory-traversal)
-
-✍️ 2023/09/20: My new post on the Security Brief series: [Security Brief - P7 - Intelligence Fusion](https://lepuchin.com/security-brief-p7-intelligence-fusion)
-
-✍️ 2023/09/14: My new post on the Security Brief series: [Security Brief - P6 - Easter-egg in Cybersecurity](https://lepuchin.com/security-brief-p6)  
 
