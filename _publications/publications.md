@@ -8,6 +8,8 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
+[54] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Pelletier, Claudia. A Human-Centered Artificial Intelligence Framework for Conducting a Systematic Literature Review. _In 15th International Conference on Smart Computing and Artificial Intelligence (IIAI AAI)_, 2024. (_Under review_)
+
 [53] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
 [52] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Nguyen, Chan Nam. Literature Review as a Service: A Human-Centered Artificial Intelligence Approach. _In 8th International Conference on Innovation in Artificial Intelligence (ICIAI)_, 2024. (_Accepted_)
