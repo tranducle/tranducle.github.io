@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/04/20: My new series post on CCNA configuration: [Show Running-Config - P1 - Configure EtherChannel](https://lepuchin.com/-Show-Running-Config-P1-Configure-EtherChannel)
+
 ✍️ 2024/04/02: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P4 - Authentication](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P4-Authentication)
 
 🥳 2024/03/18: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" presented at the [ICIAI 2024](https://www.iciai.org/index.html) by Prof. Thang Le Dinh has been awarded _ICIAI Award_ for the _**Excellent Oral Presentation**_.
