@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/05/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P5 - Backdoor](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P5-Backdoor)
+
 ✍️ 2024/04/20: My new series post on CCNA configuration: [Show Running-Config - P1 - Configure EtherChannel](https://lepuchin.com/-Show-Running-Config-P1-Configure-EtherChannel)
 
 ✍️ 2024/04/02: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P4 - Authentication](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P4-Authentication)
