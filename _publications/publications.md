@@ -8,7 +8,11 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[54] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Pelletier, Claudia. A Human-Centered Artificial Intelligence Framework for Conducting a Systematic Literature Review. _In 15th International Conference on Smart Computing and Artificial Intelligence (IIAI AAI)_, 2024. (_Under review_)
+[55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Reducing Latency in Hybrid Satellite-Terrestrial Networks through Lossless Network Traffic Compression Using Spatio-Temporal Graph Neural Networks. _In 8th International Conference on Information, Control, and Communication Technologies (ICCT2024)_, 2024. (_Under review_)
+
+[55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms. _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, 2024. (_Under review_)
+
+[54] Tran, Thanh Liem, Do, Phuc Hao, Pham, Van Dai, Abdelhamied, A. Ateya, **Le, Tran Duc**. [Investigating the Effectiveness of Different GNN Models for IoT-Healthcare Systems Botnet Traffic Classification](https://www.routledge.com/Secure-Health-A-Guide-to-Cybersecurity-for-Healthcare-Managers/Hammad-Ali-El-Affendi-Maleh-AbdEl-Latif/p/book/9781032742656). _Secure Health: A Guide to Cybersecurity for Healthcare Managers_, Taylor & Francis, Oct. 2024. (_In press_)
 
 [53] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
