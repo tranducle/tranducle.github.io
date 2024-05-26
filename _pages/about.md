@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/05/26: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P6 - Bring Your Own Device](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P6-Bring-Your-Own-Device)
+
 ✍️ 2024/05/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P5 - Backdoor](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P5-Backdoor)
 
 ✍️ 2024/04/20: My new series post on CCNA configuration: [Show Running-Config - P1 - Configure EtherChannel](https://lepuchin.com/-Show-Running-Config-P1-Configure-EtherChannel)
@@ -68,8 +70,4 @@ I teach computer networks, network administration, malware analysis, network sec
 ✍️ 2023/10/07: My new post on the Security Brief series: [Security Brief - P9 - Jumpbox](https://lepuchin.com/security-brief-p9-jumpbox)
 
 ✍️ 2023/09/30: My new post on the Platforms to Learn Cybersecurity: [Platforms to Learn Cybersecurity](https://lepuchin.com/platforms-to-learn-cybersecurity)
-
-✍️ 2023/09/27: A re-post on the Digital Forensics tools: [Top Digital Forensics Tools](https://lepuchin.com/top-digital-forensics-tools)
-
-✍️ 2023/09/26: My new post on the Security Brief series: [Security Brief - P8 - Directory Traversal](https://lepuchin.com/security-brief-p8-directory-traversal)
 
