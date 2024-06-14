@@ -5,10 +5,13 @@ permalink: /service/
 ---
 
 **Journal Reviewer**  
+• ACM Computing Surveys Review
+• Wireless Networks
 • Vietnam Journal of Computer Science  
 • The University of Danang - Journal of Science and Technology  
 
 **Conference Reviewer**  
+• CITA 2024, DCCN2024 
 • RIVF 2023, CITA 2023, FDSE 2023
 • CITA 2022 
 • MaDaIN 2021
