@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/06/16: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P7 - Business Continuity Planning](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P7-Business-Continuity-Planning)
+
 ✍️ 2024/06/07: My new series on networking: [QuickNet- P1 - Firewalls: A Castle Gatekeeper](https://lepuchin.com/QuickNet-P1-Firewalls-A-Castle-Gatekeeper)
 
 🎤 2024/05/31: I am going to deliver a talk at **InRPME training workshop**, topic: [AI-assisted systematic reviews: a step-by-step guide for researchers](https://oraprdnt.uqtr.uquebec.ca/portail/gscw045a.afficher_detail_form_reponse?owa_no_site=467&owa_bottin=&owa_no_fiche=1&owa_no_form_reponse=667155&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=O&owa_lettre=%25&owa_no_page=1)
