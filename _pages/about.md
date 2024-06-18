@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/06/18: My new blog post on networking: [QuickNet- P2 - How to Determine if Two IP Addresses Belong to the Same Subnet](https://lepuchin.com/QuickNet-P2-How-to-Determine-if-Two-IP-Addresses-Belong-to-the-Same-Subnet)
+
 ✍️ 2024/06/16: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P7 - Business Continuity Planning](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P7-Business-Continuity-Planning)
 
 ✍️ 2024/06/07: My new series on networking: [QuickNet- P1 - Firewalls: A Castle Gatekeeper](https://lepuchin.com/QuickNet-P1-Firewalls-A-Castle-Gatekeeper)
