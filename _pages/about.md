@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/06/21: I'm excited to announce that our paper "_Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms_" has been accepted to be presented at the [27th International Conference on Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)](https://dccn.ru/), Moscow, Russia, 23-27 September 2024.
+
 ✍️ 2024/06/18: My new blog post on networking: [QuickNet- P2 - How to Determine if Two IP Addresses Belong to the Same Subnet](https://lepuchin.com/QuickNet-P2-How-to-Determine-if-Two-IP-Addresses-Belong-to-the-Same-Subnet)
 
 ✍️ 2024/06/16: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P7 - Business Continuity Planning](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P7-Business-Continuity-Planning)
