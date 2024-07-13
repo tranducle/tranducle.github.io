@@ -21,7 +21,7 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
-🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://dccn.ru/), Vladikavkaz, Russia, 01-05 October 2024.
+🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://icct2024vladikavkaz.com/), Vladikavkaz, Russia, 01-05 October 2024.
 
 ✍️ 2024/07/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P8 - Baseline Security Controls](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P8-Baseline-Security-Controls)
 
