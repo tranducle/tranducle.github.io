@@ -21,6 +21,10 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://dccn.ru/), Vladikavkaz, Russia, 01-05 October 2024.
+
+✍️ 2024/07/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P8 - Baseline Security Controls](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P8-Baseline-Security-Controls)
+
 🥳 2024/06/21: I'm excited to announce that our paper "_Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms_" has been accepted to be presented at the [27th International Conference on Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)](https://dccn.ru/), Moscow, Russia, 23-27 September 2024.
 
 ✍️ 2024/06/18: My new blog post on networking: [QuickNet- P2 - How to Determine if Two IP Addresses Belong to the Same Subnet](https://lepuchin.com/QuickNet-P2-How-to-Determine-if-Two-IP-Addresses-Belong-to-the-Same-Subnet)
@@ -46,6 +50,4 @@ I teach computer networks, network administration, malware analysis, network sec
 🥳 2024/01/24: I'm excited to announce that our paper "_Literature Review as a Service: A Human-Centered Artificial Intelligence Approach_" has been accepted to be presented at the [8th International Conference on Innovation in Artificial Intelligence - ICIAI 2024](https://www.iciai.org/index.html), Tokyo, Japan, March 2024.
 
 🥳 2024/01/23: I'm excited to announce that our paper "_Search Engine Optimization Poisoning: A Cybersecurity Threat Analysis and Mitigation Strategies for Small and Medium-sized Enterprises_" has been accepted to be published in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) journal (**SSCI Q1, IF = 9.2**) 
-
-✍️ 202/01/14: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season A - P3 - Advanced Persistent Threat](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-A-P3-Advanced-Persistent-Threat)
 
