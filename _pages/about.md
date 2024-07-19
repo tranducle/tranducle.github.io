@@ -21,6 +21,10 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/07/19: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been accepted to be presented at the [The International Conference on Big data, IoT, and Cloud computing (BIC 2024)](http://bic-conference.org/2024/index.php), Hanoi, Vietnam, 12-14 August 2024.
+
+✍️ 2024/07/19: My new blog post on networking: [QuickNet- P3 - Route Summarization](https://lepuchin.com/QuickNet-P3-Route-Summarization)
+
 🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://icct2024vladikavkaz.com/), Vladikavkaz, Russia, 01-05 October 2024.
 
 ✍️ 2024/07/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P8 - Baseline Security Controls](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P8-Baseline-Security-Controls)
