@@ -21,6 +21,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2024/07/28: My new blog post on networking: [QuickNet- P4 - Inside Local, Inside Global, Outside Local, and Outside Global Concepts in NAT](https://lepuchin.com/QuickNet-P4-Inside-Local-Inside-Global-Outside-Local-and-Outside-Global-Concepts-in-NAT)
+
 🥳 2024/07/19: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been accepted to be presented at the [The International Conference on Big data, IoT, and Cloud computing (BIC 2024)](http://bic-conference.org/2024/index.php), Hanoi, Vietnam, 12-14 August 2024.
 
 ✍️ 2024/07/19: My new blog post on networking: [QuickNet- P3 - Route Summarization](https://lepuchin.com/QuickNet-P3-Route-Summarization)
