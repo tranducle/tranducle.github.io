@@ -18,9 +18,10 @@ permalink: /publications/
 
 [52] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
-[51] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Nguyen, Chan Nam. Literature Review as a Service: A Human-Centered Artificial Intelligence Approach. _In 8th International Conference on Innovation in Artificial Intelligence (ICIAI)_, 2024. (_Accepted_)
 
 **2024**  
+
+[51] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Nguyen, Chan Nam. [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516). _In 8th International Conference on Innovation in Artificial Intelligence (ICIAI)_, ACM, 52-58, 2024.
 
 [50] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. [A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset](https://ieeexplore.ieee.org/document/10471929). _ICACT-Transactions on Advanced Communications Technology (TACT)_, IEEE, Vol. 12, Issue 3, 1494-1506, 2024. 
 
