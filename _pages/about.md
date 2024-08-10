@@ -27,6 +27,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516) 
+
 ✍️ 2024/08/04: My new post on the Security Brief series: [Security Brief - P15 - VLAN Hopping Attacks](https://lepuchin.com/Security-Brief-P15-VLAN-Hopping-Attacks)
 
 ✍️ 2024/07/28: My new blog post on networking: [QuickNet- P4 - Inside Local, Inside Global, Outside Local, and Outside Global Concepts in NAT](https://lepuchin.com/QuickNet-P4-Inside-Local-Inside-Global-Outside-Local-and-Outside-Global-Concepts-in-NAT)
