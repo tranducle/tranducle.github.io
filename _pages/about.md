@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![NetSec-ITDUT Lab](/images/netsecitdut_logo.png){: .align-right width="180px"}
-Since 08/2024, I have been working as an Assistant Professor at the [Mathematics, Statistics & Computer Science Department](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-computer-science-department), [College of Science, Technology, Engineering, Mathematics & Management](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management), University of Wisconsin-Stout [https://www.uwstout.edu/].
+Since 08/2024, I have been working as an Assistant Professor at the [Mathematics, Statistics & Computer Science Department](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-computer-science-department), [College of Science, Technology, Engineering, Mathematics & Management](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management), [University of Wisconsin-Stout](https://www.uwstout.edu/).
 
 ------------------------------------------------------
 
