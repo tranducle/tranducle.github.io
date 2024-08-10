@@ -3,6 +3,8 @@ layout: page
 title: Service
 permalink: /service/
 ---
+**Membership**  
+• IEEE Member 
 
 **Journal Reviewer**  
 • ACM Computing Surveys Review
