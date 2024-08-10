@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 ![NetSec-ITDUT Lab](/images/netsecitdut_logo.png){: .align-right width="180px"}
+Since 08/2024, I have been working as an Assistant Professor at the [Mathematics, Statistics & Computer Science Department](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-computer-science-department), [College of Science, Technology, Engineering, Mathematics & Management](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management), University of Wisconsin-Stout [https://www.uwstout.edu/].
+
+------------------------------------------------------
+
 I received [my Ph.D.](https://www.sut.ru/bonchnews/science/4767-pozdravlyaem-s-zaschitoy-dissertacii) in Systems, Networks, and Telecommunication Devices from [the Bonch-Bruevich Saint Petersburg State University of Telecommunications](https://www.sut.ru/) in Russia in 2018 with my supervisor - [Assos. Prof. Ol'ga Simonina](https://www.sut.ru/education/fakulteti-i-instituti/rts/rsiv/753-simonina-olga-aleksandrovna-2) (She has been a monumental influence in my life, serving as a close friend, an exceptional mentor, and a steadfast support throughout the challenging years of my PhD journey).
 
-I am currently a postdoctoral researcher at [the Université du Québec à Trois-Rivières, Québec, Canada](https://www.uqtr.ca/), working under the supervision of [Prof. Thang Le-Dinh](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1220) and [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307) focusing on cybersecurity analytics.
+From 01/2023 to 07/2024, I had been working as a postdoctoral researcher at [the Université du Québec à Trois-Rivières, Québec, Canada](https://www.uqtr.ca/), under the supervision of [Prof. Thang Le-Dinh](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1220) and [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307) focusing on cybersecurity analytics.
 
-My research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. I lead the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at the University of Science and Technology - University of Danang in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
+My research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. I led the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at the University of Science and Technology - University of Danang in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
 
 I have published several journal articles and conference papers on malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. I have received awards for my research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
 
