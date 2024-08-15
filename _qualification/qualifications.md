@@ -5,6 +5,9 @@ permalink: /qualification/
 ---
 **CERTIFICATIONS**  
 
+**CCNA - Cisco Certified Network Associate**  
+_Cisco, 2024_ 
+
 **ISC2 Certified in Cybersecurity**  
 _ISC2, 2024_ 
 
