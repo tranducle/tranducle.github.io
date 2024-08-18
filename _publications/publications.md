@@ -8,6 +8,8 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
+[57] Le-Dinh, Thang, **Le, Tran Duc**, Ralyté, Jolita. A Methodological Framework for Designing Human-Centered Artificial Intelligence Services. _In The First International Workshop on AI Services and Applications (AISA’2024)_, 2024. (_Accepted_)
+
 [56] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
 
 [55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Reducing Latency in Hybrid Satellite-Terrestrial Networks through Lossless Network Traffic Compression Using Spatio-Temporal Graph Neural Networks. _In 8th International Conference on Information, Control, and Communication Technologies (ICCT2024)_, 2024. (_Accepted_)
