@@ -8,6 +8,12 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
+[60] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Under Review_)
+
+[59] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Thi Lien Huong. A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Under Review_)
+
+[58] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+
 [57] Le-Dinh, Thang, **Le, Tran Duc**, Ralyté, Jolita. A Methodological Framework for Designing Human-Centered Artificial Intelligence Services. _In The First International Workshop on AI Services and Applications (AISA’2024)_, 2024. (_Accepted_)
 
 [56] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
@@ -16,12 +22,12 @@ permalink: /publications/
 
 [54] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms. _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, 2024. (_Accepted_)
 
-[53] Tran, Thanh Liem, Do, Phuc Hao, Pham, Van Dai, Abdelhamied, A. Ateya, **Le, Tran Duc**. [Investigating the Effectiveness of Different GNN Models for IoT-Healthcare Systems Botnet Traffic Classification](https://www.routledge.com/Secure-Health-A-Guide-to-Cybersecurity-for-Healthcare-Managers/Hammad-Ali-El-Affendi-Maleh-AbdEl-Latif/p/book/9781032742656). _Secure Health: A Guide to Cybersecurity for Healthcare Managers_, Taylor & Francis, Oct. 2024. (_In press_)
-
-[52] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
+[53] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
 
 **2024**  
+
+[52] Tran, Thanh Liem, Do, Phuc Hao, Pham, Van Dai, Abdelhamied, A. Ateya, **Le, Tran Duc**. [Investigating the Effectiveness of Different GNN Models for IoT-Healthcare Systems Botnet Traffic Classification](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003470038-6/investigating-effectiveness-different-gnn-models-iot-healthcare-systems-botnet-traffic-classification-phuc-hao-thanh-liem-tran-van-dai-pham-abdelhamied-ateya-tran-duc-le). _Secure Health: A Guide to Cybersecurity for Healthcare Managers_, Taylor & Francis, 104–123, 2024.
 
 [51] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Nguyen, Chan Nam. [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516). _In 8th International Conference on Innovation in Artificial Intelligence (ICIAI)_, ACM, 52-58, 2024.
 
