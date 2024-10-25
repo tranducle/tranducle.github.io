@@ -14,18 +14,18 @@ permalink: /publications/
 
 [58] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
-[57] Le-Dinh, Thang, **Le, Tran Duc**, Ralyté, Jolita. A Methodological Framework for Designing Human-Centered Artificial Intelligence Services. _In The First International Workshop on AI Services and Applications (AISA’2024)_, 2024. (_Accepted_)
+[57] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
 
-[56] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
+[56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Reducing Latency in Hybrid Satellite-Terrestrial Networks through Lossless Network Traffic Compression Using Spatio-Temporal Graph Neural Networks. _In 8th International Conference on Information, Control, and Communication Technologies (ICCT2024)_, 2024. (_Accepted_)
 
-[55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Reducing Latency in Hybrid Satellite-Terrestrial Networks through Lossless Network Traffic Compression Using Spatio-Temporal Graph Neural Networks. _In 8th International Conference on Information, Control, and Communication Technologies (ICCT2024)_, 2024. (_Accepted_)
+[55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms. _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, 2024. (_Accepted_)
 
-[54] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms. _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, 2024. (_Accepted_)
-
-[53] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
+[54] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
 
 **2024**  
+
+[53] Le-Dinh, Thang, **Le, Tran Duc**, Ralyté, Jolita. [A Methodological Framework for Designing Human-Centered Artificial Intelligence Services](https://link.springer.com/chapter/10.1007/978-3-031-75599-6_2). _In Saeki, M., et al. Advances in Conceptual Modeling (ER 2024)_, Lecture Notes in Computer Science, vol 14932. Springer, Cham, 21-39, 2024.
 
 [52] Tran, Thanh Liem, Do, Phuc Hao, Pham, Van Dai, Abdelhamied, A. Ateya, **Le, Tran Duc**. [Investigating the Effectiveness of Different GNN Models for IoT-Healthcare Systems Botnet Traffic Classification](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003470038-6/investigating-effectiveness-different-gnn-models-iot-healthcare-systems-botnet-traffic-classification-phuc-hao-thanh-liem-tran-van-dai-pham-abdelhamied-ateya-tran-duc-le). _Secure Health: A Guide to Cybersecurity for Healthcare Managers_, Taylor & Francis, 104–123, 2024.
 
