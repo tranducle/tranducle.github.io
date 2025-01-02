@@ -7,6 +7,8 @@ permalink: /service/
 • IEEE Member 
 
 **Journal Reviewer**  
+• Engineering Applications of Artificial Intelligence (EAAI)
+
 • ACM Computing Surveys Review
 
 • Wireless Networks
