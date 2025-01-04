@@ -27,6 +27,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2025/01/04: My new post on the Security Brief series: [Security Brief - P16 - DoubleClickjacking: A New Clickjacking Attack](https://lepuchin.com/Security-Brief-P16-DoubleClickjacking-A-New-Clickjacking-Attack)
+
 🥳 2024/08/18: I'm excited to announce that our paper "_A Methodological Framework for Designing Human-Centered Artificial Intelligence Services_" has been accepted to be presented at the [The First International Workshop on AI Services and Applications (AISA’2024)](https://www.atcamp.co.kr/main/page.jsp?code=aisa&mode=aisa2024) in conjunction with [The 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/workshops.cfm), Pittsburg, Pennsylvania, USA, 28-31 October 2024.
 
 🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516) 
