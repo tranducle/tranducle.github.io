@@ -26,6 +26,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/01/05: I'm excited to announce that our paper "_Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations_" has been accepted to be published in the journal [IEEE Access]([http://bic-conference.org/2024/index.php](https://ieeeaccess.ieee.org/about-ieee-access/learn-more-about-ieee-access/?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNjoSJYhincZqbCocrT8NKIw0RDprpp-UB1aMM9_w87PcLxGo0osXWRoCKHEQAvD_BwE), (**IF = 3.4**).
+
 ✍️ 2025/01/04: My new post on the Security Brief series: [Security Brief - P16 - DoubleClickjacking: A New Clickjacking Attack](https://lepuchin.com/Security-Brief-P16-DoubleClickjacking-A-New-Clickjacking-Attack)
 
 🥳 2024/08/18: I'm excited to announce that our paper "_A Methodological Framework for Designing Human-Centered Artificial Intelligence Services_" has been accepted to be presented at the [The First International Workshop on AI Services and Applications (AISA’2024)](https://www.atcamp.co.kr/main/page.jsp?code=aisa&mode=aisa2024) in conjunction with [The 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/workshops.cfm), Pittsburg, Pennsylvania, USA, 28-31 October 2024.
