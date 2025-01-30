@@ -25,7 +25,7 @@ permalink: /publications/
 
 **2025**
 
-[54] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai. [Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations](https://ieeexplore.ieee.org/document/10839389). _IEEE Access_, (Early Access), 2025. **(SCIE Q1, IF = 3.4) **
+[54] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai. [Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations](https://ieeexplore.ieee.org/abstract/document/10839389). _IEEE Access_, Vol. 13, 16072 - 16093, 2025. **(SCIE Q1, IF = 3.4) **
 
 **2024**  
 
