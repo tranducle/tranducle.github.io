@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2025/01/31: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P11 - The Art of Secret Keeping: Cryptography](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P11-The-Art-of-Secret-Keeping-Cryptography)
+
 ✍️ 2025/01/07: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P10 - Common Vulnerabilities and Exposures (CVE)](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P10-Common-Vulnerabilities-and-Exposures-CVE)
 
 🥳 2025/01/05: I'm excited to announce that our paper "_Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations_" has been accepted to be published in the journal [IEEE Access](https://ieeeaccess.ieee.org/about-ieee-access/learn-more-about-ieee-access/?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNjoSJYhincZqbCocrT8NKIw0RDprpp-UB1aMM9_w87PcLxGo0osXWRoCKHEQAvD_BwE), (**IF = 3.4**).
@@ -43,16 +45,6 @@ I teach computer networks, network administration, malware analysis, network sec
 ✍️ 2024/07/19: My new blog post on networking: [QuickNet- P3 - Route Summarization](https://lepuchin.com/QuickNet-P3-Route-Summarization)
 
 🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://icct2024vladikavkaz.com/), Vladikavkaz, Russia, 01-05 October 2024.
-
-✍️ 2024/07/13: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P8 - Baseline Security Controls](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P8-Baseline-Security-Controls)
-
-🥳 2024/06/21: I'm excited to announce that our paper "_Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms_" has been accepted to be presented at the [27th International Conference on Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)](https://dccn.ru/), Moscow, Russia, 23-27 September 2024.
-
-✍️ 2024/06/18: My new blog post on networking: [QuickNet- P2 - How to Determine if Two IP Addresses Belong to the Same Subnet](https://lepuchin.com/QuickNet-P2-How-to-Determine-if-Two-IP-Addresses-Belong-to-the-Same-Subnet)
-
-✍️ 2024/06/16: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season B - P7 - Business Continuity Planning](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-B-P7-Business-Continuity-Planning)
-
-✍️ 2024/06/07: My new series on networking: [QuickNet- P1 - Firewalls: A Castle Gatekeeper](https://lepuchin.com/QuickNet-P1-Firewalls-A-Castle-Gatekeeper)
 
 🎤 2024/05/31: I am going to deliver a talk at **InRPME training workshop**, topic: [AI-assisted systematic reviews: a step-by-step guide for researchers](https://oraprdnt.uqtr.uquebec.ca/portail/gscw045a.afficher_detail_form_reponse?owa_no_site=467&owa_bottin=&owa_no_fiche=1&owa_no_form_reponse=667155&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=O&owa_lettre=%25&owa_no_page=1)
 
