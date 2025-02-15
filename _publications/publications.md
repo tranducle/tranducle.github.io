@@ -21,7 +21,7 @@ permalink: /publications/
 
 **2025**
 
-[56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Resource Allocation for Multi-beam Satellites Using Genetic Algorithm Variations](https://link.springer.com/10.1007/978-3-031-80853-1_2). _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, Springer, Cham, 16-29, 2024.
+[56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Resource Allocation for Multi-beam Satellites Using Genetic Algorithm Variations](https://link.springer.com/10.1007/978-3-031-80853-1_2). _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, Springer, Cham, 16-29, 2025.
 
 [55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks](https://ieeexplore.ieee.org/document/10874999). _In 2024 8th International Conference on Information, Control, and Communication Technologies (ICCT)_, IEEE, 1-10, 2025.
 
