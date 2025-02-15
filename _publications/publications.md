@@ -16,14 +16,14 @@ permalink: /publications/
 
 [58] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
 
-[57] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Reducing Latency in Hybrid Satellite-Terrestrial Networks through Lossless Network Traffic Compression Using Spatio-Temporal Graph Neural Networks. _In 8th International Conference on Information, Control, and Communication Technologies (ICCT2024)_, 2024. (_Accepted_)
-
-[56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms. _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, 2024. (_Accepted_)
-
-[55] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
+[57] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
 
 
 **2025**
+
+[56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Resource Allocation for Multi-beam Satellites Using Genetic Algorithm Variations](https://link.springer.com/10.1007/978-3-031-80853-1_2). _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, Springer, Cham, 16-29, 2024.
+
+[55] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks](https://ieeexplore.ieee.org/document/10874999). _In 2024 8th International Conference on Information, Control, and Communication Technologies (ICCT)_, IEEE, 1-10, 2025.
 
 [54] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai. [Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations](https://ieeexplore.ieee.org/abstract/document/10839389). _IEEE Access_, Vol. 13, 16072 - 16093, 2025. **(SCIE Q1, IF = 3.4) **
 
