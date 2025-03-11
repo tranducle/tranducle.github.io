@@ -16,10 +16,10 @@ permalink: /publications/
 
 [58] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
 
-[57] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)
-
 
 **2025**
+
+[57] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review](https://www.techrxiv.org/users/898485/articles/1274319-cybersecurity-analytics-for-enterprise-environment-a-systematic-literature-review). _TechRxiv_, DOI: 10.36227/techrxiv.174140713.37617157/v1, 2025.
 
 [56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Resource Allocation for Multi-beam Satellites Using Genetic Algorithm Variations](https://link.springer.com/10.1007/978-3-031-80853-1_2). _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, Springer, Cham, 16-29, 2025.
 
