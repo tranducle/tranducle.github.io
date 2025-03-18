@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/03/18: I'm excited to announce that our paper "_Human-Centered Artificial Intelligence in Higher Education: A Framework for Systematic Literature Reviews_" - as a result of my collaboration with a group of researchers from UQTR University (Trois-Rivieres, Quebec, Canada) - has been accepted to be published in the journal [Information](https://www.mdpi.com/2078-2489/16/3/240), (**IF = 2.4**).
+
 ✍️ 2025/01/31: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P11 - The Art of Secret Keeping: Cryptography](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P11-The-Art-of-Secret-Keeping-Cryptography)
 
 ✍️ 2025/01/07: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P10 - Common Vulnerabilities and Exposures (CVE)](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P10-Common-Vulnerabilities-and-Exposures-CVE)
