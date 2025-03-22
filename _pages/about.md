@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2025/03/22: My new post on the Security Brief series: [Security Brief - P16 - Rainbow Table Attacks](https://lepuchin.com/Security-Brief-P16-Rainbow-Table-Attacks)
+
 🥳 2025/03/18: I'm excited to announce that our paper "_Human-Centered Artificial Intelligence in Higher Education: A Framework for Systematic Literature Reviews_" - as a result of my collaboration with a group of researchers from UQTR University (Trois-Rivieres, Quebec, Canada) - has been accepted to be published in the journal [Information](https://www.mdpi.com/2078-2489/16/3/240), (**IF = 2.4**).
 
 ✍️ 2025/01/31: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P11 - The Art of Secret Keeping: Cryptography](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P11-The-Art-of-Secret-Keeping-Cryptography)
@@ -39,14 +41,4 @@ I teach computer networks, network administration, malware analysis, network sec
 🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516) 
 
 ✍️ 2024/08/04: My new post on the Security Brief series: [Security Brief - P15 - VLAN Hopping Attacks](https://lepuchin.com/Security-Brief-P15-VLAN-Hopping-Attacks)
-
-✍️ 2024/07/28: My new blog post on networking: [QuickNet- P4 - Inside Local, Inside Global, Outside Local, and Outside Global Concepts in NAT](https://lepuchin.com/QuickNet-P4-Inside-Local-Inside-Global-Outside-Local-and-Outside-Global-Concepts-in-NAT)
-
-🥳 2024/07/19: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been accepted to be presented at the [The International Conference on Big data, IoT, and Cloud computing (BIC 2024)](http://bic-conference.org/2024/index.php), Hanoi, Vietnam, 12-14 August 2024.
-
-✍️ 2024/07/19: My new blog post on networking: [QuickNet- P3 - Route Summarization](https://lepuchin.com/QuickNet-P3-Route-Summarization)
-
-🥳 2024/07/13: I'm excited to announce that our paper "_ST-GNN-Powered Compression for Latency Reduction in Hybrid Satellite-Terrestrial Networks_" has been accepted to be presented at the [2024 8-th International Conference on Information, Control, and Communication Technologies (ICCT-2024)](https://icct2024vladikavkaz.com/), Vladikavkaz, Russia, 01-05 October 2024.
-
-🎤 2024/05/31: I am going to deliver a talk at **InRPME training workshop**, topic: [AI-assisted systematic reviews: a step-by-step guide for researchers](https://oraprdnt.uqtr.uquebec.ca/portail/gscw045a.afficher_detail_form_reponse?owa_no_site=467&owa_bottin=&owa_no_fiche=1&owa_no_form_reponse=667155&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=O&owa_lettre=%25&owa_no_page=1)
 
