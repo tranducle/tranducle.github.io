@@ -3,9 +3,6 @@ layout: page
 title: Service
 permalink: /service/
 ---
-**Membership**  
-• IEEE Member 
-
 **Journal Reviewer**  
 • Engineering Applications of Artificial Intelligence (EAAI)
 
@@ -18,6 +15,8 @@ permalink: /service/
 • The University of Danang - Journal of Science and Technology  
 
 **Conference Reviewer**  
+• CITA 2025, AMCIS2025
+
 • CITA 2024, DCCN2024
 
 • RIVF 2023, CITA 2023, FDSE 2023
