@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/04/05: I'm excited to announce that our paper "_Agentic AI Across Technologies, Applications, and Development Domains: A Systematic Literature Review_" has been accepted to be presented at the [6th International Conference on Data Analytics & Management (ICDAM-2025)](https://icdam-conf.com/), London, UK, 13-15 June 2025.
+
 ✍️ 2025/03/22: My new post on the Security Brief series: [Security Brief - P16 - Rainbow Table Attacks](https://lepuchin.com/Security-Brief-P16-Rainbow-Table-Attacks)
 
 🥳 2025/03/18: I'm excited to announce that our paper "_Human-Centered Artificial Intelligence in Higher Education: A Framework for Systematic Literature Reviews_" - as a result of my collaboration with a group of researchers from UQTR University (Trois-Rivieres, Quebec, Canada) - has been accepted to be published in the journal [Information](https://www.mdpi.com/2078-2489/16/3/240), (**IF = 2.4**).
