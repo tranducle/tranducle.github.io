@@ -14,10 +14,10 @@ permalink: /publications/
 
 [60] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
-[59] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma. _In The International Conference on Big data, IoT, and Cloud computing (BIC 2024)_, 2024. (_Accepted_)
-
 
 **2025**
+
+[59] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. [Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39). _In Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416_, 2025.
 
 [58] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Pelletier, Claudia. [Human-Centered Artificial Intelligence in Higher Education: A Framework for Systematic Literature Reviews](https://www.mdpi.com/2078-2489/16/3/240). _Information_, MDPI, 16(3), 240, 2025.
 
