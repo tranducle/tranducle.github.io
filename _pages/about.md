@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/05/14: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been published in [Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39).
+
 🥳 2025/04/05: I'm excited to announce that our paper "_Agentic AI Across Technologies, Applications, and Development Domains: A Systematic Literature Review_" has been accepted to be presented at the [6th International Conference on Data Analytics & Management (ICDAM-2025)](https://icdam-conf.com/), London, UK, 13-15 June 2025.
 
 ✍️ 2025/03/22: My new post on the Security Brief series: [Security Brief - P16 - Rainbow Table Attacks](https://lepuchin.com/Security-Brief-P16-Rainbow-Table-Attacks)
