@@ -21,7 +21,7 @@ permalink: /publications/
 
 [58] Le-Dinh, Thang, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Pelletier, Claudia. [Human-Centered Artificial Intelligence in Higher Education: A Framework for Systematic Literature Reviews](https://www.mdpi.com/2078-2489/16/3/240). _Information_, MDPI, 16(3), 240, 2025.
 
-[57] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review](https://www.techrxiv.org/users/898485/articles/1274319-cybersecurity-analytics-for-enterprise-environment-a-systematic-literature-review). _TechRxiv_, DOI: 10.36227/techrxiv.174140713.37617157/v1, 2025.
+[57] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. [Cybersecurity Analytics for the Enterprise Environment: A Systematic Literature Review](https://www.mdpi.com/2079-9292/14/11/2252). _Electronics_, MDPI, 14(11), 2252, 2025.
 
 [56] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Resource Allocation for Multi-beam Satellites Using Genetic Algorithm Variations](https://link.springer.com/10.1007/978-3-031-80853-1_2). _In 27th Distributed Computer and Communication Networks: Control, Computation, Communications (DCCN2024)_, Springer, Cham, 16-29, 2025.
 
