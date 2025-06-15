@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2025/06/15: My new blog post about Network Segmentation: [Network Segmentation: The Digital Moat](https://lepuchin.com/Network-Segmentation-The-Digital-Moat)
+
 ✍️ 2025/05/30: My new blog post about Blackhole Attacks: [A Deep Dive into Blackhole Attacks in Network Security](https://lepuchin.com/deep-dive-blackhole-attacks-network-security)
 
 🥳 2025/05/14: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been published in [Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39).
