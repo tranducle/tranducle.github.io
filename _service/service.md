@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/about)
+
 • [Journal of Computer Virology and Hacking Techniques](https://link.springer.com/journal/11416)
 
 • [Transactions on Emerging Telecommunications Technologies](https://onlinelibrary.wiley.com/journal/21613915)
