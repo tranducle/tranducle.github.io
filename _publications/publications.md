@@ -8,14 +8,16 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[62] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[63] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[61] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Thi Lien Huong. A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[62] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Thi Lien Huong. A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[60] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+[61] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 
 **2025**
+
+[60] Bao, Yida, Zhang, Zheng, Arifuzzaman, Mohammad, **Le, Tran Duc**, Li, Qi, Mwanza, Masuzyo, Lin, Jiaqing, Gaillard, Philippe and Ye, Jiafeng. [Developing Effective Techniques for the Recognition of Shanghai Dialect Text](https://ieeexplore.ieee.org/document/11053757). _IEEE Access_, Vol. N/A, N/A, 2025.
 
 [59] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. [Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39). _In Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416_, 2025.
 
