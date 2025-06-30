@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [Mathematics](https://www.mdpi.com/journal/mathematics)
+
 • [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/about)
 
 • [Journal of Computer Virology and Hacking Techniques](https://link.springer.com/journal/11416)
@@ -43,5 +45,5 @@ permalink: /service/
 • [MaDaIN 2021: The 2nd International Conference on Recent Advances in Machine Learning, Data Science, Intelligent Systems & Networking](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=145741)  
 • [MaDaIN 2020: The 1st International Conference on Recent Advances in Machine Learning, Data Science, Intelligent Systems & Networking](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=111971&copyownerid=164832)  
 
-**Co-lead the Capture the Flag (CTF) team of the department**  
-• CTF Team 2021: [_Em0t3t_](https://ctftime.org/team/141776)
+**Program Committees**  
+• [The ACM Conference on Computer and Communications Security (CCS), Poster/Demonstration Sessions, 2025](https://ccs2025posters.hotcrp.com/)  
