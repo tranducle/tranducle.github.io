@@ -17,7 +17,7 @@ permalink: /publications/
 
 **2025**
 
-[60] Bao, Yida, Zhang, Zheng, Arifuzzaman, Mohammad, **Le, Tran Duc**, Li, Qi, Mwanza, Masuzyo, Lin, Jiaqing, Gaillard, Philippe and Ye, Jiafeng. [Developing Effective Techniques for the Recognition of Shanghai Dialect Text](https://ieeexplore.ieee.org/document/11053757). _IEEE Access_, Vol. N/A, N/A, 2025.
+[60] Bao, Yida, Zhang, Zheng, Arifuzzaman, Mohammad, **Le, Tran Duc**, Li, Qi, Mwanza, Masuzyo, Lin, Jiaqing, Gaillard, Philippe and Ye, Jiafeng. [Developing Effective Techniques for the Recognition of Shanghai Dialect Text](https://ieeexplore.ieee.org/document/11053757). _IEEE Access_, Vol. 13, 111802 - 111813, 2025.
 
 [59] Nguyen, Nang Hung Van, Do, Phuc Hao, **Le, Tran Duc**, Ngo, Van Uc, Dinh, Truong Duy, Pham, Van Dai. [Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39). _In Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416_, 2025.
 
