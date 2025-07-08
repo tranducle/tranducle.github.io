@@ -24,6 +24,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/07/08: I'm thrilled to share that our paper "_A cybersecurity framework for enhancing Small and medium-sizedenterprises (SMEs) security posture using user behaviour analytics_" - as a result of my collaboration with a group of researchers from UQTR University (Trois-Rivieres, Quebec, Canada) - has been accepted to be published in the journal [Enterprise Information Systems](https://www.tandfonline.com/eprint/EQRFRRC3UBZYMNEHWI9H/full?target=10.1080/17517575.2025.2529282#abstract), (**IF = 4.4**).
+
 ✍️ 2025/06/15: My new blog post about Network Segmentation: [Network Segmentation: The Digital Moat](https://lepuchin.com/Network-Segmentation-The-Digital-Moat)
 
 ✍️ 2025/05/30: My new blog post about Blackhole Attacks: [A Deep Dive into Blackhole Attacks in Network Security](https://lepuchin.com/deep-dive-blackhole-attacks-network-security)
