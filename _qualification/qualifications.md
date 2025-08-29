@@ -5,6 +5,9 @@ permalink: /qualification/
 ---
 **CERTIFICATIONS**  
 
+**CCNP - Cisco Certified Specialist - Enterprise Core**  
+_Cisco, 2025_ 
+
 **CCNA - Cisco Certified Network Associate**  
 _Cisco, 2024_ 
 
