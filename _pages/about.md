@@ -16,11 +16,9 @@ I received [my Ph.D.](https://www.sut.ru/bonchnews/science/4767-pozdravlyaem-s-z
 
 From 01/2023 to 07/2024, I had been working as a postdoctoral researcher at [the Université du Québec à Trois-Rivières, Québec, Canada](https://www.uqtr.ca/), under the supervision of [Prof. Thang Le-Dinh](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1220) and [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307) focusing on cybersecurity analytics.
 
-My research interests include network security, malware analysis, malware detection and classification, and applying AI/ML for cybersecurity. I led the [NETSEC-ITDUT](https://netsec-it.dut.udn.vn/home) research group at the University of Science and Technology - University of Danang in Vietnam, which focuses on networking, network security, and applying AI/ML to cybersecurity problems.
+My research interests include network security, malware analysis, cybersecurity analytics, and applying AI/ML for cybersecurity. I have received awards for my research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
 
-I have published several journal articles and conference papers on malware spreading models, intrusion detection systems, denial-of-service attack detection, and quality of service in wireless networks. I have received awards for my research, including an Outstanding Paper Award at ICACT2020 and ICACNGC2022.
-
-I teach computer networks, network administration, malware analysis, network security, and network penetration testing courses at my university in Vietnam. I aim to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
+I teach computer networks, network administration, malware analysis, network security, and network penetration testing courses. I aim to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
 
 ---------------------------------------------------------------
 📢 **NEWS**  
