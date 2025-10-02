@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [SN Computer Science](https://link.springer.com/journal/42979)
+
 • [Mathematics](https://www.mdpi.com/journal/mathematics)
 
 • [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/about)
