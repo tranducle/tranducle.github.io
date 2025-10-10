@@ -22,6 +22,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/10/10: I'm thrilled to share that our paper "_A Lightweight Zero-Trust Architecture Implementation for Enhancing Cybersecurity in Small and Medium-Sized Enterprises_" has been published in the journal [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/article/view/1284).
+
 🥳 2025/08/05: I'm excited to announce that our papers "_Resilient Edge Computing: An Elixir-BEAM Architecture for IoT Gas Leakage Detection_" and "_GT-FID: A Graph-Temporal Fusion Network for Host-Based Intrusion Detection from System Call Sequences_" have been accepted to be presented at the [CCIOT2025 in Ho Chi Minh city, November 26-28, 2025](https://cciot.org/).
 
 🥳 2025/07/08: I'm thrilled to share that our paper "_A cybersecurity framework for enhancing Small and medium-sizedenterprises (SMEs) security posture using user behaviour analytics_" - as a result of my collaboration with a group of researchers from UQTR University (Trois-Rivieres, Quebec, Canada) - has been accepted to be published in the journal [Enterprise Information Systems](https://www.tandfonline.com/eprint/EQRFRRC3UBZYMNEHWI9H/full?target=10.1080/17517575.2025.2529282#abstract), (**IF = 4.4**).
