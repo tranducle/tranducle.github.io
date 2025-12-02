@@ -8,18 +8,20 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[72] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai, Nguyen, Thi Le Quyen. GT-FID: A Graph-Temporal Fusion Network for Host-Based Intrusion Detection from System Call Sequences. _In 2025 10th International Conference on Cloud Computing and Internet of Things (CCIOT2025)_, Ho Chi Minh City, Vietnam, November 26-28, 2025. (_Accepted_)
+[73] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai, Nguyen, Thi Le Quyen. GT-FID: A Graph-Temporal Fusion Network for Host-Based Intrusion Detection from System Call Sequences. _In 2025 10th International Conference on Cloud Computing and Internet of Things (CCIOT2025)_, Ho Chi Minh City, Vietnam, November 26-28, 2025. (_Accepted_)
 
-[71] Nguyen, T.M. Triet, Pham, Van Dai, Do, Phuc Hao, Dinh, Truong Duy, **Le, Tran Duc**. Resilient Edge Computing: An Elixir-BEAM Architecture for IoT Gas Leakage Detection. _In 2025 10th International Conference on Cloud Computing and Internet of Things (CCIOT2025)_, Ho Chi Minh City, Vietnam, November 26-28, 2025. (_Accepted_)
+[72] Nguyen, T.M. Triet, Pham, Van Dai, Do, Phuc Hao, Dinh, Truong Duy, **Le, Tran Duc**. Resilient Edge Computing: An Elixir-BEAM Architecture for IoT Gas Leakage Detection. _In 2025 10th International Conference on Cloud Computing and Internet of Things (CCIOT2025)_, Ho Chi Minh City, Vietnam, November 26-28, 2025. (_Accepted_)
 
-[70] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[71] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[69] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Thi Lien Huong. A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[70] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Thi Lien Huong. A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[68] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+[69] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 
 **2025**
+
+[68] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai. [Multi-modal sensor fusion and federated learning for TinyML on resource-constrained IoT devices](https://www.tandfonline.com/doi/abs/10.1080/17445760.2025.2592705). _International Journal of Parallel, Emergent and Distributed Systems_, DOI: 10.1080/17445760.2025.2592705.
 
 [67] Tran, Thi Chau Giang, Le-Dinh, Thang, **Le, Tran Duc**. [Agentic AI Across Technologies, Applications, and Development Domains: A Systematic Literature Review](https://link.springer.com/chapter/10.1007/978-3-032-03769-5_44). _In the International Conference on Data Analytics & Management (ICDAM 2025). Lecture Notes in Networks and Systems, vol 1603. Springer, Cham._, Springer, Cham, vol 1603, 587–601, 2025.
 
