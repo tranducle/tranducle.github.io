@@ -22,6 +22,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2025/12/05: I'm excited to announce that our papers (under the leadership of [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307)) "_Competency Requirements for Cybersecurity Professionals in Canadian Job Market: Organizational Convergences and Divergences_" has been accepted to be presented at the [ICISSP 2026 in Marbella, Spain, March 4-6, 2026](https://icissp.scitevents.org/Home.aspx).
+
 🥳 2025/10/25: I'm thrilled to share that our paper "_PBSNet: Parallel Branch Spatial Network for Precise Brain Tumor Classification in MRI Slices_" has been accepted to be published in the journal [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), (**IF = 4.9**).
 
 🥳 2025/10/10: I'm thrilled to share that our paper "_A Lightweight Zero-Trust Architecture Implementation for Enhancing Cybersecurity in Small and Medium-Sized Enterprises_" has been published in the journal [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/article/view/1284).
