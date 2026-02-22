@@ -8,13 +8,15 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[75] Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Competency Requirements for Cybersecurity Professionals in Canadian Job Market: Organizational Convergences and Divergences. _In 2026 12th The International Conference on Information Systems Security and Privacy (ICISSP2026)_, Marbella, Spain, March 4-6, 2026. (_Accepted_)
+[76] Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Competency Requirements for Cybersecurity Professionals in Canadian Job Market: Organizational Convergences and Divergences. _In 2026 12th The International Conference on Information Systems Security and Privacy (ICISSP2026)_, Marbella, Spain, March 4-6, 2026. (_Accepted_)
 
-[74] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[75] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[73] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+[74] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 **2026**
+
+[73] **Le, Tran Duc**, Dinh, Truong Duy, Do, Phuc Hao, Pham, Van Dai, Nguyen, Son Nam. [Beyond the Flag: A Framework for Integrating Cybersecurity Competitions into K-12 Education for Cognitive Apprenticeship and Ethical Skill Development](https://arxiv.org/abs/2602.16921). _arXiv preprint arXiv:2602.16921_, 2026.
 
 [72] Do, Phuc Hao, **Le, Tran Duc**, Dinh, Truong Duy, Pham, Van Dai. [Mind the Gap: On the Practical Utility of SHAP for Deep Learning-Based Intrusion Detection](https://ieeexplore.ieee.org/document/11365034). _In 2025 RIVF International Conference on Computing and Communication Technologies (RIVF)_, IEEE, 364–369, 2025.
 
