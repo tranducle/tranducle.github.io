@@ -22,6 +22,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2026/02/18: I'm excited to share that our paper "_Beyond the Flag: A Framework for Integrating Cybersecurity Competitions into K-12 Education for Cognitive Apprenticeship and Ethical Skill Development_" has appeared online on [Arxiv-2602.16921](https://arxiv.org/abs/2602.16921), 2026.
+
 🥳 2025/12/05: I'm excited to announce that our papers (under the leadership of [Prof. Sylvestre Uwizeyemungu](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3307)) "_Competency Requirements for Cybersecurity Professionals in Canadian Job Market: Organizational Convergences and Divergences_" has been accepted to be presented at the [ICISSP 2026 in Marbella, Spain, March 4-6, 2026](https://icissp.scitevents.org/Home.aspx).
 
 🥳 2025/10/25: I'm thrilled to share that our paper "_PBSNet: Parallel Branch Spatial Network for Precise Brain Tumor Classification in MRI Slices_" has been accepted to be published in the journal [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), (**IF = 4.9**).
@@ -36,7 +38,11 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ✍️ 2025/05/30: My new blog post about Blackhole Attacks: [A Deep Dive into Blackhole Attacks in Network Security](https://lepuchin.com/deep-dive-blackhole-attacks-network-security)
 
-🥳 2025/05/14: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been published in [Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39).
+🥳 2025/05/14: I'm excited to announce that our paper "_Comparative Performance of Deep Learning Models in Detecting Invasive Ductal Carcinoma_" has been published in [Advances in Computer Science and Ubiquitous Computing. CSA 2024. Lecture Notes in Electrical Engineering, vol 1416](https://link.springer.com/chapter/10.1007/978-981-96-5693-6_39
+        
+        
+        
+        ).
 
 🥳 2025/04/05: I'm excited to announce that our paper "_Agentic AI Across Technologies, Applications, and Development Domains: A Systematic Literature Review_" has been accepted to be presented at the [6th International Conference on Data Analytics & Management (ICDAM-2025)](https://icdam-conf.com/), London, UK, 13-15 June 2025.
 
@@ -54,7 +60,11 @@ I teach computer networks, network administration, malware analysis, network sec
 
 🥳 2024/08/18: I'm excited to announce that our paper "_A Methodological Framework for Designing Human-Centered Artificial Intelligence Services_" has been accepted to be presented at the [The First International Workshop on AI Services and Applications (AISA’2024)](https://www.atcamp.co.kr/main/page.jsp?code=aisa&mode=aisa2024) in conjunction with [The 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/workshops.cfm), Pittsburg, Pennsylvania, USA, 28-31 October 2024.
 
-🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516) 
+🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516
+        
+        
+        
+        ) 
 
 ✍️ 2024/08/04: My new post on the Security Brief series: [Security Brief - P15 - VLAN Hopping Attacks](https://lepuchin.com/Security-Brief-P15-VLAN-Hopping-Attacks)
 
