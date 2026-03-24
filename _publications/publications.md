@@ -8,11 +8,13 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[76] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[77] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[75] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+[76] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 **2026**
+
+[75] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Federated Learning Performance in GEO Satellite Networks using Successive Convex Approximation](https://ieeexplore.ieee.org/abstract/document/11427421). _In 2025 9th International Conference on Information, Control, and Communication Technologies (ICCT)_, IEEE, 1-10, 2026.
 
 [74] Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. [Competency Requirements for Cybersecurity Professionals in Canadian Job Market: Organizational Convergences and Divergences](https://www.scitepress.org/Link.aspx?doi=10.5220/0014230100004061). _In 2026 12th The International Conference on Information Systems Security and Privacy (ICISSP2026)_, Marbella, Spain, March 4-6, 2026.
 
