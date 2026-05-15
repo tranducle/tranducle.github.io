@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [Journal of Cybersecurity](https://academic.oup.com/cybersecurity)
+
 • [Applied Sciences](https://www.mdpi.com/journal/applsci)
 
 • [Cluster Computing](https://link.springer.com/journal/10586)
