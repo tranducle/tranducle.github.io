@@ -14,9 +14,9 @@ permalink: /publications/
 
 **2026**
 
-[77] **Le, Tran Duc**, Bao, Yida, Arifuzzaman, Mohammad. [X-GATE: Attribution-Aware Distillation and Hardening for Compressed Edge-IIoT Intrusion Detection](https://www.mdpi.com/2079-9292/15/11/2284). _Electronics_, DOI: 10.3390/electronics15112284.
+[77] **Le, Tran Duc**, Bao, Yida, Arifuzzaman, Mohammad. [X-GATE: Attribution-Aware Distillation and Hardening for Compressed Edge-IIoT Intrusion Detection](https://www.mdpi.com/2079-9292/15/11/2284)._Electronics_, DOI: 10.3390/electronics15112284.
 
-[76] Bao, Yida, Arifuzzaman, Mohammad, **Le, Tran Duc**, Jiang, Tao, Hou, Jing, Xing, Yuan, Hou, Dongfang. [A Convergent Method for Energy Optimization in Modern Hopfield Networks](https://www.mdpi.com/2504-2289/10/3/71). _Big Data and Cognitive Computing_, DOI: 10.3390/bdcc10030071.
+[76] Bao, Yida, Arifuzzaman, Mohammad, **Le, Tran Duc**, Jiang, Tao, Hou, Jing, Xing, Yuan, Hou, Dongfang. [A Convergent Method for Energy Optimization in Modern Hopfield Networks](https://www.mdpi.com/2504-2289/10/3/71)._Big Data and Cognitive Computing_, DOI: 10.3390/bdcc10030071.
 
 [75] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. [Optimizing Federated Learning Performance in GEO Satellite Networks using Successive Convex Approximation](https://ieeexplore.ieee.org/abstract/document/11427421). _In 2025 9th International Conference on Information, Control, and Communication Technologies (ICCT)_, IEEE, 1-10, 2026.
 
