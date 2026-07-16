@@ -8,11 +8,13 @@ permalink: /publications/
 
 **UNDER REVIEW OR ACCEPTED**  
 
-[79] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
+[80] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
 
-[78] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
+[79] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 **2026**
+
+[78] **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Thi Le Quyen, Nguyen, Cong Danh. [Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach](https://link.springer.com/article/10.1186/s42400-026-00628-w)._Cybersecurity_, DOI: 10.1186/s42400-026-00628-w.
 
 [77] **Le, Tran Duc**, Bao, Yida, Arifuzzaman, Mohammad. [X-GATE: Attribution-Aware Distillation and Hardening for Compressed Edge-IIoT Intrusion Detection](https://www.mdpi.com/2079-9292/15/11/2284)._Electronics_, DOI: 10.3390/electronics15112284.
 
