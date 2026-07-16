@@ -22,6 +22,8 @@ I teach computer networks, network administration, malware analysis, network sec
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2026/07/15: I'm excited to share that our paper "_Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach_" has been published in the journal [Cybersecurity](https://link.springer.com/article/10.1186/s42400-026-00628-w), 2026, (**SCIE Q1, IF = 4.1**). 
+
 🥳 2026/05/25: I'm excited to share that our paper "_X-GATE: Attribution-Aware Distillation and Hardening for Compressed Edge-IIoT Intrusion Detection_" has been published in the journal [Electronics](https://www.mdpi.com/2079-9292/15/11/2284), 2026.
 
 🥳 2026/02/18: I'm excited to share that our paper "_Beyond the Flag: A Framework for Integrating Cybersecurity Competitions into K-12 Education for Cognitive Apprenticeship and Ethical Skill Development_" has appeared online on [Arxiv-2602.16921](https://arxiv.org/abs/2602.16921), 2026.
