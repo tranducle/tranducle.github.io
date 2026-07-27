@@ -6,11 +6,6 @@ permalink: /publications/
 
 
 
-**UNDER REVIEW OR ACCEPTED**  
-
-[80] Le-Dinh, Thang, Vu, Manh Chien, **Le, Tran Duc**. Integrating Artificial Intelligence and Machine Learning in Financial Services: A Systematic Literature Review. _In The Eighth International Econometric Conference of Vietnam - ECONVN2025_, Ho Chi Minh City, Vietnam, January 13-15, 2025. (_Accepted_)
-
-[79] Vu, Manh Chien, **Le, Tran Duc**, Le-Dinh, Thang. Patterns of Digital Entrepreneurs: Integrating the Big Five and Meta Theories with Technological Advancements. _In The 4th Global Conference on Entrepreneurship and Economy in an Era of Uncertainty (EEEU 24)_, Danang City, Vietnam, November 27-29, 2024. (_Accepted_)
 
 **2026**
 

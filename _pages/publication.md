@@ -1,30 +1,5 @@
 
 
-**UNDER REVIEW OR ACCEPTED**  
-
-[51] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre. Cybersecurity Analytics for Enterprise Environment: A Systematic Literature Review. _ACM Computing Surveys_, 2023. (_Under review_)  
-
-[50] Dam, Quang Tien, Le, Viet Trung, **Le, Tran Duc**, Uwizeyemungu, Sylvestre, Le-Dinh, Thang. Visualizing Portable Executable Headers for Ransomware Detection: A Deep Learning-Based Approach. _Journal of Universal Computer Science (J.UCS)_, 2023. (_Under review_)  
-
-[49] **Le, Tran Duc**, Le-Dinh, Thang, Uwizeyemungu, Sylvestre, Doan, Xuan Hung, Dinh, Truong Duy. SafeDocs: A Machine Learning-Based Framework for Malicious PDF Detection Tailored for SMEs. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Under review_) 
-
-[48] Do, Phuc Hao, Pham, Van Quan,**Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Nang Hung Van, Pham, Minh Tuan. Unveiling the Power of Pretrained Models for Neural Machine Translation in Vietnamese Language: A Comparative Analysis. _In The 2023 RIVF International Conference on Computing and Communication Technologies_, 2023. (_Under review_)  
-
-[47] Le, Viet Trung, Do, Phuc Hao, Uwizeyemungu, Sylvestre, Le-Dinh, Thang, **Le, Tran Duc**. Utilizing InfoGAN and PE Header Features for Synthetic Ransomware Image Generation: An Experimental Study. _In The 10th International Conference on Future Data and Security Engineering (FDSE)_, Springer, 2023. (_Accepted_)  
-
-[46] Truong, Cong Khoa, Do, Phuc Hao, **Le, Tran Duc**. A Comparative Analysis of E-mail Phishing Detection Methods: A Deep Learning Perspective. _In IET/IEEE_, 2023. (_Accepted_)  
-
-[45] **Le, Tran Duc**, Dinh, Truong Duy, Dang, Quoc Khanh, Nguyen, Thi Le Quyen, Kirichek, Ruslan. A Comparative Analysis of Blockchain-Based Authentication Models for IoT Networks. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[44] **Le, Tran Duc**, Do, Phuc Hao, Nguyen, Duc Tai, Phung, Van Thang, Nguyen, Cong Danh, Dinh, Truong Duy. Federated Learning for Linux Malware Detection: An Experimental Study. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[43] Do, Phuc Hao, **Le, Tran Duc**, Berezkin, Aleksandr, Kirichek, Ruslan. Analysis of intelligent compression methods for traffic transmission in satellite communication channels. _In EAI/Springer Innovations in Communication and Computing_, Springer, 2023. (_Accepted_)  
-
-[42] Do, Phuc Hao, **Le, Tran Duc**, Vishnevsky, Vladimir, Berezkin, Aleksandr, Kirichek, Ruslan. A Horizontal Federated Learning Approach to IoT Malware Traffic Detection: An Empirical Evaluation with N-BaIoT Dataset. _ICACT Transactions on Advanced Communications Technology (ICACTTACT)_, IEEE, 2023. (_Accepted_)  
-
-[41] **Le, Tran Duc**. Exploring Common Malware Persistence Techniques on Windows OS for Enhanced Cybersecurity Management: Detection and Mitigation Strategies. _Cybersecurity Management in Education Technologies: Risks and Countermeasures for Advancements in E-learning_. Ed. Ahmed A. Abd El-Latif, Yassine Maleh, Mohammed A. EL-Affendi, Sadique Ahmad, Taylor & Francis Group, Dec. 2023. (_Book chapter_, _Accepted_)  
-
-
 **2023**  
 
 [40] Nguyen, Nghia Thinh, Ninh, Duy Khanh, Pham, Van Dai, **Le, Tran Duc**. DTTP Model-A Deep Learning-Based Model for Detecting and Tracking Target Person. _Lecture Notes in Networks and Systems_, vol. 752, Springer, 581-590, 2023.  
