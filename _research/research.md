@@ -26,7 +26,7 @@ vehicles. As vehicles become increasingly connected and automated, ensuring the 
 
 Thus, my interest in cybersecurity, specifically network security, has roots tracing back to the early stages of my doctoral research and has persisted into my independent research endeavors.
 
-**2020 – Current: In-depth Exploration of Cybersecurity Challenges**  
+**2020 – 2025: In-depth Exploration of Cybersecurity Challenges**  
 
 Since early 2020, my research has predominantly concentrated on cybersecurity, particularly network security and malware analysis. I independently established the NetSec-ITDUT Lab, which
 primarily consists of 3rd and 4th-year students actively engaged in scientific research, specialized projects, and capstone projects under my supervision. Additionally, NetSec members come from other universities like the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Danang Architecture University (DAU), and SPBGUT in Saint Petersburg, as well as engineers from R&D departments of companies in Da Nang city.  
@@ -48,12 +48,12 @@ efficient, and precise technique for classifying ransomware families.
 
 Moreover, my research team and I are currently concentrating on problems involving image-based models, particularly when combined with Portable Executable (PE) Header features in ransomware binaries. Our focus in this domain aims to enhance ransomware detection and classification. The rationale behind this methodology of image-based analysis arises from several factors. Image representation of binary malware samples facilitates pattern recognition that may remain undetected in raw binary form. The features derived in this manner can be processed more efficiently by image-centric models. Furthermore, this approach offers an added layer of security as it mitigates the risk associated with the direct execution of malware. The method also accommodates applying transfer learning techniques using pre-existing, pre-trained AI models. Image data also offer opportunities for augmentation, thereby enhancing the robustness of the model.
 
-**Current Research and Future Works**  
+**2025 – Current: Cybersecurity in SMEs, Malware Analysis, and xAI in Cybersecurity**  
 
 Since commencing my postdoctoral work at Université du Québec à Trois-Rivières, I have become increasingly aware of the pivotal role of cybersecurity within enterprises, particularly small and medium-sized enterprises (SMEs). These businesses often lack specialized cybersecurity departments and operate under constrained resources. Additionally, there is frequently a lack of
 proper awareness within these organizations regarding the critical importance of cybersecurity, rendering them attractive targets for attackers.  
 
-My ongoing research endeavors include Search Engine Optimization (SEO) poisoning, cybersecurity analytics for SMEs utilizing user behavior data, and developing risk-scoring models
-for insider threat detection within SMEs.
+Building upon my previous work, my ongoing research endeavors continue to dive deeper into malware analysis while expanding into new frontiers. This includes Search Engine Optimization (SEO) poisoning, cybersecurity analytics for SMEs utilizing user behavior data, and developing risk-scoring models
+for insider threat detection within SMEs. A key pillar of my current work is integrating Explainable AI (xAI) in cybersecurity, which ensures that complex machine learning models used for threat detection are transparent, interpretable, and trustworthy for security analysts.
 
-In the near future, I intend to focus on solutions to enhance SMEs' security posture and cybersecurity awareness. This direction holds substantial practical relevance and augments the potential for securing funding and fostering collaborations between research groups and commercial enterprises.
+Looking ahead, I intend to focus on solutions to enhance SMEs' security posture and cybersecurity awareness, leveraging advanced malware analysis and xAI techniques. This direction holds substantial practical relevance and augments the potential for securing funding and fostering collaborations between research groups and commercial enterprises.
