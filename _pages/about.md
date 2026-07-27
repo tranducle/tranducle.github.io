@@ -20,6 +20,8 @@ My research interests include network security, malware analysis, cybersecurity 
 
 I teach computer networks, network administration, malware analysis, network security, and network penetration testing courses. I aim to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle/).
+
 ---------------------------------------------------------------
 📢 **NEWS**  
 🥳 2026/07/15: I'm excited to share that our paper "_Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach_" has been published in the journal [Cybersecurity](https://link.springer.com/article/10.1186/s42400-026-00628-w), 2026, (**SCIE Q1, IF = 4.1**). 
