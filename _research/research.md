@@ -6,7 +6,7 @@ permalink: /research/
 
 My research interests began with wireless personal area networks during my PhD and have progressively shifted towards cybersecurity based on observations and evolving passions. This statement summarizes how my focus has broadened to address problems in malware analysis, network security, and tailored analytics solutions.  
 
-![Research Statement 1](/images/researchstatement1.png){: .align-center width="800px"}
+![Research Statement 1](/images/research_timeline.png){: .align-center width="800px"}
 
 **2014 – 2018: Foundations in Wireless Communication Technologies**  
 
