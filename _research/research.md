@@ -33,7 +33,7 @@ primarily consists of 3rd and 4th-year students actively engaged in scientific r
 
 A comprehensive overview of my research directions is depicted in the following figure.
 
-![Research Statement 2](/images/researchstatement2.png){: .align-center width="800px"}
+![Research Statement 2](/images/malware_diagram.png){: .align-center width="800px"}
 
 My research during this period revolved around malware and attacks in representative network architectures, including the Internet of Things (IoT), LoRa, and SDN.  
 
