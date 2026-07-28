@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[79] **Le, Tran Duc**, Do, Phuc Hao, Dinh, Truong Duy, Pham, Van Dai, Nguyen, Thi Le Quyen. [Adaptive Recourse for Adversarial Evasion: A Game-Theoretic Framework for Robust Network Intrusion Detection](https://www.mdpi.com/2079-9292/15/15/3291)._Electronics_, DOI: 10.3390/electronics15153291.
+
 [78] **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Thi Le Quyen, Nguyen, Cong Danh. [Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach](https://link.springer.com/article/10.1186/s42400-026-00628-w)._Cybersecurity_, DOI: 10.1186/s42400-026-00628-w.
 
 [77] **Le, Tran Duc**, Bao, Yida, Arifuzzaman, Mohammad. [X-GATE: Attribution-Aware Distillation and Hardening for Compressed Edge-IIoT Intrusion Detection](https://www.mdpi.com/2079-9292/15/11/2284)._Electronics_, DOI: 10.3390/electronics15112284.
