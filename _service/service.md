@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [Journal of Cybersecurity and Privacy](https://www.mdpi.com/journal/jcp)
+
 • [Journal of Cybersecurity](https://academic.oup.com/cybersecurity)
 
 • [Applied Sciences](https://www.mdpi.com/journal/applsci)
