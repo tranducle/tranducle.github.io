@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[80] **Le, Tran Duc**. [Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](https://arxiv.org/abs/2608.24850). _arXiv preprint arXiv:2608.24850_, 2026.
+
 [79] **Le, Tran Duc**, Arifuzzaman, Mohammad, Bao, Yida. [TRACE: Feature-Space Feasible Action Contracts for Explainable Intrusion Triage](https://www.mdpi.com/2079-9292/15/15/3291)._Electronics_, DOI: 10.3390/electronics15153291.
 
 [78] **Le, Tran Duc**, Dinh, Truong Duy, Nguyen, Thi Le Quyen, Nguyen, Cong Danh. [Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach](https://link.springer.com/article/10.1186/s42400-026-00628-w)._Cybersecurity_, DOI: 10.1186/s42400-026-00628-w.
