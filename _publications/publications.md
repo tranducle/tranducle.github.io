@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[81] **Le, Tran Duc**. [LWDED: Large-scale Website Defacement Evaluation Dataset (v2)](https://zenodo.org/records/22051075). _Zenodo_, DOI: 10.5281/zenodo.22051074, 2026.
+
 [80] **Le, Tran Duc**. [Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](https://arxiv.org/abs/2608.24850). _arXiv preprint arXiv:2608.24850_, 2026.
 
 [79] **Le, Tran Duc**, Arifuzzaman, Mohammad, Bao, Yida. [TRACE: Feature-Space Feasible Action Contracts for Explainable Intrusion Triage](https://www.mdpi.com/2079-9292/15/15/3291)._Electronics_, DOI: 10.3390/electronics15153291.
