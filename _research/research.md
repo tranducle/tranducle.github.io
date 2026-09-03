@@ -4,56 +4,27 @@ title: Research
 permalink: /research/
 ---
 
-My research interests began with wireless personal area networks during my PhD and have progressively shifted towards cybersecurity based on observations and evolving passions. This statement summarizes how my focus has broadened to address problems in malware analysis, network security, and tailored analytics solutions.  
+I study how networked systems can be defended when evidence is incomplete, operational resources are limited, and some defensive decisions are increasingly automated. This perspective grew from my doctoral work on wireless networking, where contention, interference, and protocol behavior led naturally to questions of resilience and adversarial behavior. My research now centers on two established themes, **network and systems security** and **deployable security analytics**, with an emerging extension into **AI-enabled cyber defense**. The common thread is practical: understand system behavior, derive defensible evidence, turn that evidence into usable controls, and automate only where doing so remains transparent and governable.  
 
-![Research Statement 1](/images/research_timeline.png){: .align-center width="800px"}
+**Network and Systems Security**  
 
-**2014 – 2018: Foundations in Wireless Communication Technologies**  
+![Network and Systems Security](/images/research_network_systems_security.png){: .align-center width="800px"}
 
-During this formative period, I sought to conduct my PhD thesis by focusing on network quality of service, network security in the 2.4 GHz band, and Software Defined Networking (SDN). My primary concern was that in a densely populated wireless network, especially one wherein multiple devices and technologies share the 2.4 GHz frequency band, the quality of data transmission inevitably deteriorates due to problems arising from frequency overlap, collision, and interference. To address these challenges, I proposed various channel access mechanisms. I also introduced a priority-based allocation schema for Transmission Opportunities (TXOP) to differentiate traffic types to reduce latency and improve bandwidth.  
+My core research examines how attacks emerge from network and system behavior and how defensive evidence can remain faithful to that behavior. Early work modeled malware propagation in vehicular and Wi-Fi networks; more recent studies address IoT/IIoT intrusion detection, malware traffic analysis, and explainable intrusion triage. Across this work, I have remained interested in protocol-aware and behavior-aware defense: how to detect attacks while preserving evidence that helps explain what happened and supports a practical response.  
 
-Additionally, my focus on interference signals and quality of service in my PhD thesis has led me to another related interest - denial-of-service attacks, distributed denial-of-service attacks, and jamming attacks in ad hoc wireless networks.  
+**Deployable Security Analytics**  
 
-**2018 – 2020: The Shift to Vehicular Networks**  
+![Deployable Security Analytics](/images/research_deployable_security_analytics.png){: .align-center width="800px"}
 
-As my research evolved, my focus shifted towards vehicular networks, specifically Flying Adhoc Network (FANET) and Vehicular Ad-hoc Network (VANET). This transition came naturally as most FANET and VANET wireless networks utilize technologies like WLAN, Bluetooth, Zigbee and LoRa, which I was already familiar with from my PhD thesis work. The knowledge and experience I gained analyzing interference and quality of service in ad-hoc networks provided a foundation for me to extend my research to new domains like FANETs and VANETs.  
+A second line of work asks whether technically strong defenses remain useful under operational constraints. During my postdoctoral research on cybersecurity for small and medium-sized enterprises (SMEs), I examined user behavior, malicious-content threats, enterprise security analytics, and capability prioritization in organizations with limited staff, telemetry, and budgets. This work shifted my emphasis from model performance alone toward deployment feasibility: what can an organization understand, maintain, and justify? I am especially interested in methods that account for resource limits, analyst workload, explainability, and implementation cost.  
 
-My early research in this phase focused on vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) communications in VANETs. Notably, the multiple channel priority protocol of our group proposed in the paper "Flying Ad-hoc Network for Emergency based on IEEE 802.11p multichannel MAC protocol" was included in the ITU-T (Telecommunication Standardization Sector of ITU) recommendation Q.3060 on "Signaling architecture of fast deployment emergency telecommunication networks to be used in a natural disaster." Having our VANET multichannel protocol recognized by such a significant international standards body highlighted our vehicular networking research's significance and potential impact.  
+**AI-Enabled Cyber Defense**  
 
-A new question that intrigued me during this phase was, "How can mobile networks be resilient against an ever-changing array of threats?" Challenges included the inherently unstable and dynamic nature of vehicular networks. An emerging trend towards smart city ecosystems also attracted my attention. FANETs and VANETs are critical components for smart cities. However, what if the VANET between vehicles in an urban area is compromised? VANET applications like forward collision warning, electronic emergency brake light systems, lane change assistance, and
-curve speed adaptation could become dangerous to vehicle operators. Of particular concern is the threat from modern malware, which can propagate through the wireless networks between
-vehicles. As vehicles become increasingly connected and automated, ensuring the cybersecurity and resilience of VANETs against a sophisticated array of attacks is imperative.  
+![AI-Enabled Cyber Defense](/images/research_ai_cyber_defense.png){: .align-center width="800px"}
 
-Thus, my interest in cybersecurity, specifically network security, has roots tracing back to the early stages of my doctoral research and has persisted into my independent research endeavors.
+More recently, I have begun extending this systems-and-deployment perspective to AI-assisted and agentic cyber defense. My work in this area includes prompt-injection contagion in multi-agent systems and ongoing studies of tool-using agents. I am interested in the security risks that arise when AI systems interact with other agents, external tools, and operational environments, as well as in mechanisms that keep automated actions constrained and subject to human review.  
 
-**2020 – 2025: In-depth Exploration of Cybersecurity Challenges**  
+These interests are connected by a common concern with how security mechanisms behave in real systems and how they can support practical defense. I use network and system measurement, security modeling, machine learning, and controlled experimentation as tools rather than ends in themselves. My goal is to develop cyber-defense methods that are technically grounded, practical to deploy, and understandable to the people responsible for operating them.  
 
-Since early 2020, my research has predominantly concentrated on cybersecurity, particularly network security and malware analysis. I independently established the NetSec-ITDUT Lab, which
-primarily consists of 3rd and 4th-year students actively engaged in scientific research, specialized projects, and capstone projects under my supervision. Additionally, NetSec members come from other universities like the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Danang Architecture University (DAU), and SPBGUT in Saint Petersburg, as well as engineers from R&D departments of companies in Da Nang city.  
-
-A comprehensive overview of my research directions is depicted in the following figure.
-
-![Research Statement 2](/images/malware_diagram.png){: .align-center width="800px"}
-
-My research during this period revolved around malware and attacks in representative network architectures, including the Internet of Things (IoT), LoRa, and SDN.  
-
-I have developed several models to simulate malware propagation in Vehicular Ad-hoc Networks (VANETs) and Wi-Fi networks. These models have enabled me to assess the extent of malware spread, identify equilibrium points, and propose countermeasures based on mathematical formulations. The conceptual underpinnings for these malware propagation models were inspired by the emergence of the Emotet malware, a virulent strain capable of targeting access points and executing brute-force attacks to penetrate wireless networks.  
-
-In addition to the models mentioned above, other problems of interest to me encompass malware detection, classification, and prediction. In tackling these issues, my general approach is
-deploying Machine Learning or Artificial Intelligence models, often incorporating feature extraction and selection techniques.  
-
-Recently, with the significant uptick in the impact of ransomware, my focus has gradually shifted from malware in general to specific families of ransomware. I have experimented with
-deploying various hashing techniques and proposed a solution integrating Import Hash, Fuzzy Hash, and Section Level Fuzzy Hash. This combined approach aims to create a highly optimized,
-efficient, and precise technique for classifying ransomware families.  
-
-Moreover, my research team and I are currently concentrating on problems involving image-based models, particularly when combined with Portable Executable (PE) Header features in ransomware binaries. Our focus in this domain aims to enhance ransomware detection and classification. The rationale behind this methodology of image-based analysis arises from several factors. Image representation of binary malware samples facilitates pattern recognition that may remain undetected in raw binary form. The features derived in this manner can be processed more efficiently by image-centric models. Furthermore, this approach offers an added layer of security as it mitigates the risk associated with the direct execution of malware. The method also accommodates applying transfer learning techniques using pre-existing, pre-trained AI models. Image data also offer opportunities for augmentation, thereby enhancing the robustness of the model.
-
-**2025 – Current: Cybersecurity in SMEs, Malware Analysis, and xAI in Cybersecurity**  
-
-Since commencing my postdoctoral work at Université du Québec à Trois-Rivières, I have become increasingly aware of the pivotal role of cybersecurity within enterprises, particularly small and medium-sized enterprises (SMEs). These businesses often lack specialized cybersecurity departments and operate under constrained resources. Additionally, there is frequently a lack of
-proper awareness within these organizations regarding the critical importance of cybersecurity, rendering them attractive targets for attackers.  
-
-Building upon my previous work, my ongoing research endeavors continue to dive deeper into malware analysis while expanding into new frontiers. This includes Search Engine Optimization (SEO) poisoning, cybersecurity analytics for SMEs utilizing user behavior data, and developing risk-scoring models
-for insider threat detection within SMEs. A key pillar of my current work is integrating Explainable AI (xAI) in cybersecurity, which ensures that complex machine learning models used for threat detection are transparent, interpretable, and trustworthy for security analysts.
-
-Looking ahead, I intend to focus on solutions to enhance SMEs' security posture and cybersecurity awareness, leveraging advanced malware analysis and xAI techniques. This direction holds substantial practical relevance and augments the potential for securing funding and fostering collaborations between research groups and commercial enterprises.
+---
+*A formal PDF version is available: [Research Statement (PDF)](/files/Tran_Duc_Le_Research_Statement.pdf)*
