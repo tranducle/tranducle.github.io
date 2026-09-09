@@ -4,6 +4,8 @@ title: Service
 permalink: /service/
 ---
 **Journal Reviewer**  
+• [Security and Privacy](https://onlinelibrary.wiley.com/journal/24756725)
+
 • [Digital Health](https://journals.sagepub.com/home/dhj)
 
 • [Journal of Cybersecurity and Privacy](https://www.mdpi.com/journal/jcp)
