@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[82] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Ngoc Khanh Linh. [Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements](https://link.springer.com/article/10.1186/s13731-026-00711-z)._Journal of Innovation and Entrepreneurship_, DOI: 10.1186/s13731-026-00711-z.
+
 [81] **Le, Tran Duc**. [LWDED: Large-scale Website Defacement Evaluation Dataset (v2)](https://zenodo.org/records/22051075). _Zenodo_, DOI: 10.5281/zenodo.22051074, 2026.
 
 [80] **Le, Tran Duc**. [Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](https://arxiv.org/abs/2608.24850). _arXiv preprint arXiv:2608.24850_, 2026.
