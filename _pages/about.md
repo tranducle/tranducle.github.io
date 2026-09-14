@@ -24,6 +24,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2026/09/14: I'm excited to share that our paper "_Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements_" has been published in the journal [Journal of Innovation and Entrepreneurship](https://link.springer.com/article/10.1186/s13731-026-00711-z), 2026.
+
 🥳 2026/07/28: I'm excited to share that our paper "_TRACE: Feature-Space Feasible Action Contracts for Explainable Intrusion Triage_" has been published in the journal [Electronics](https://www.mdpi.com/2079-9292/15/15/3291), 2026.
 
 🥳 2026/07/15: I'm excited to share that our paper "_Cross-layer contagion of prompt injections in multi-agent swarms: a multiplex microscopic markov chain approach_" has been published in the journal [Cybersecurity](https://link.springer.com/article/10.1186/s42400-026-00628-w), 2026, (**SCIE Q1, IF = 4.1**). 
