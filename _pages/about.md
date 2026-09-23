@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as an Assistant Professor at the [Mathematics, Statistics & Computer Science Department](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-computer-science-department), [College of Science, Technology, Engineering, Mathematics & Management](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management), [University of Wisconsin-Stout](https://www.uwstout.edu/).
+I am working as an Assistant Professor at the [Mathematics, Statistics & Computer Science Department](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-and-management/mathematics-statistics-computer-science-department), [College of Science, Technology, Engineering, Mathematics & Management](https://www.uwstout.edu/academics/colleges-schools/college-science-technology-engineering-mathematics-management), [University of Wisconsin-Stout Polytechnic](https://www.uwstout.edu/).
 
 ------------------------------------------------------
 
