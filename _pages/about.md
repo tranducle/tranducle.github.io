@@ -24,6 +24,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+✍️ 2026/09/21: My practical guide to academic writing: [The Formula Book for writing every section of a research paper.](https://paperformula.vercel.app/)
+
 🥳 2026/09/14: I'm excited to share that our paper "_Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements_" has been published in the journal [Journal of Innovation and Entrepreneurship](https://link.springer.com/article/10.1186/s13731-026-00711-z), 2026.
 
 🥳 2026/07/28: I'm excited to share that our paper "_TRACE: Feature-Space Feasible Action Contracts for Explainable Intrusion Triage_" has been published in the journal [Electronics](https://www.mdpi.com/2079-9292/15/15/3291), 2026.
@@ -59,14 +61,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle
 ✍️ 2025/01/31: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P11 - The Art of Secret Keeping: Cryptography](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P11-The-Art-of-Secret-Keeping-Cryptography)
 
 ✍️ 2025/01/07: My new blog post on CyberChats between Prof. Palkia and Charmander: [CyberChats: Palkia & Charmander - Season C - P10 - Common Vulnerabilities and Exposures (CVE)](https://lepuchin.com/CyberChats-Palkia-Charmander-Season-C-P10-Common-Vulnerabilities-and-Exposures-CVE)
-
-🥳 2025/01/05: I'm excited to announce that our paper "_Classifying IoT Botnet Attacks with Kolmogorov-Arnold Networks: A Comparative Analysis of Architectural Variations_" has been accepted to be published in the journal [IEEE Access](https://ieeeaccess.ieee.org/about-ieee-access/learn-more-about-ieee-access/?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNjoSJYhincZqbCocrT8NKIw0RDprpp-UB1aMM9_w87PcLxGo0osXWRoCKHEQAvD_BwE), (**IF = 3.4**).
-
-✍️ 2025/01/04: My new post on the Security Brief series: [Security Brief - P16 - DoubleClickjacking: A New Clickjacking Attack](https://lepuchin.com/Security-Brief-P16-DoubleClickjacking-A-New-Clickjacking-Attack)
-
-🥳 2024/08/18: I'm excited to announce that our paper "_A Methodological Framework for Designing Human-Centered Artificial Intelligence Services_" has been accepted to be presented at the [The First International Workshop on AI Services and Applications (AISA’2024)](https://www.atcamp.co.kr/main/page.jsp?code=aisa&mode=aisa2024) in conjunction with [The 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/workshops.cfm), Pittsburg, Pennsylvania, USA, 28-31 October 2024.
-
-🥳 2024/08/04: Our paper has been published in ACM: [Literature Review as a Service: A Human-Centered Artificial Intelligence Approach](https://dl.acm.org/doi/10.1145/3655497.3655516) 
-
-✍️ 2024/08/04: My new post on the Security Brief series: [Security Brief - P15 - VLAN Hopping Attacks](https://lepuchin.com/Security-Brief-P15-VLAN-Hopping-Attacks)
 
