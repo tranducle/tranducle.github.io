@@ -24,6 +24,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🥳 2026/09/30: I'm excited to share that our paper "_Security-by-Transformation: A Capability Prioritization Framework for Resource-Constrained SMEs_" has been published in the journal [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/article/view/1480), 2026.
+
 ✍️ 2026/09/21: My practical guide to academic writing: [The Formula Book for writing every section of a research paper.](https://paperformula.vercel.app/)
 
 🥳 2026/09/14: I'm excited to share that our paper "_Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements_" has been published in the journal [Journal of Innovation and Entrepreneurship](https://link.springer.com/article/10.1186/s13731-026-00711-z), 2026.
