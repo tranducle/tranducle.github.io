@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[83] **Le, Tran Duc**, Dinh, Truong Duy. [Security-by-Transformation: A Capability Prioritization Framework for Resource-Constrained SMEs](https://jtde.telsoc.org/index.php/jtde/article/view/1480)._Journal of Telecommunications and the Digital Economy_, DOI: 10.18080/jtde.v14n3.1480.
+
 [82] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Ngoc Khanh Linh. [Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements](https://link.springer.com/article/10.1186/s13731-026-00711-z)._Journal of Innovation and Entrepreneurship_, DOI: 10.1186/s13731-026-00711-z.
 
 [81] **Le, Tran Duc**. [LWDED: Large-scale Website Defacement Evaluation Dataset (v2)](https://zenodo.org/records/22051075). _Zenodo_, DOI: 10.5281/zenodo.22051074, 2026.
