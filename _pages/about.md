@@ -24,7 +24,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle
 
 ---------------------------------------------------------------
 📢 **NEWS**  
-🥳 2026/09/30: I'm excited to share that our paper "_Security-by-Transformation: A Capability Prioritization Framework for Resource-Constrained SMEs_" has been published in the journal [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/article/view/1480), 2026.
+💰 2026/10/01: Happy to share that my UW–Stout Chancellor’s Fund for Teaching Excellence and Student Success proposal has been funded! So excited to move this project forward!.
+
+🎉 2026/09/30: I'm excited to share that our paper "_Security-by-Transformation: A Capability Prioritization Framework for Resource-Constrained SMEs_" has been published in the journal [Journal of Telecommunications and the Digital Economy](https://jtde.telsoc.org/index.php/jtde/article/view/1480), 2026.
 
 ✍️ 2026/09/21: My practical guide to academic writing: [The Formula Book for writing every section of a research paper.](https://paperformula.vercel.app/)
 
