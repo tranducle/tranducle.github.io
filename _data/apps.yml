@@ -1,0 +1,39 @@
+# Web apps shown on /apps/ (_pages/apps.md).
+# To add an app: append an item under the right group. Image: 640x400 JPG in /images/apps/.
+
+- group: "Research & Writing"
+  icon: "fas fa-pen-nib"
+  apps:
+    - name: "The Paper Formula Book"
+      url: "https://paperformula.vercel.app/"
+      image: "/images/apps/paperformula.jpg"
+      description: "An interactive guide to writing every section of a research paper: memorize rhetorical moves, not paragraphs."
+      tags: ["Academic Writing", "Guide"]
+
+- group: "Cybersecurity Analytics"
+  icon: "fas fa-shield-alt"
+  apps:
+    - name: "MTA-Agent: Malicious Traffic Analysis"
+      url: "https://malicious-traffic-analysis.vercel.app/"
+      image: "/images/apps/malicious-traffic-analysis.jpg"
+      description: "A field guide for network forensics students: turn a packet capture into a defensible report. Evidence first, reasoning second."
+      tags: ["Network Forensics", "PCAP"]
+    - name: "CyberModels Matrix"
+      url: "https://cyber-models-website.vercel.app/"
+      image: "/images/apps/cyber-models-website.jpg"
+      description: "The 8 core statistical models behind enterprise cyber risk quantification, explained with plain language, equations, and worked examples."
+      tags: ["Cyber Risk", "Statistical Models"]
+
+- group: "Teaching Tools"
+  icon: "fas fa-chalkboard-teacher"
+  apps:
+    - name: "IPv4 Virtual Networking Tutor"
+      url: "https://ipv4-tutor-cnit133.vercel.app/"
+      image: "/images/apps/ipv4-tutor-cnit133.jpg"
+      description: "AI-generated practice on network and broadcast addresses, host ranges, and CIDR/mask conversion. Uses your own AI API key."
+      tags: ["IPv4", "AI Practice"]
+    - name: "IPv4 Subnetting Tutor"
+      url: "https://ipv4-subnetting-cnit133.vercel.app/"
+      image: "/images/apps/ipv4-subnetting-cnit133.jpg"
+      description: "A practice engine, study guide, and FLSM/VLSM calculators for mastering IPv4 subnetting."
+      tags: ["Subnetting", "FLSM / VLSM"]

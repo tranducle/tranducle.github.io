@@ -1,0 +1,32 @@
+---
+layout: page
+title: "Apps"
+permalink: /apps/
+excerpt: "Interactive web apps by Tran Duc Le for research, teaching, and cybersecurity education."
+---
+
+{% include base_path %}
+
+<div class="apps-page">
+<h1 class="apps-title">Apps</h1>
+<p class="apps-intro">Interactive web apps I build for research, teaching, and cybersecurity education.</p>
+
+<div class="apps-grid">
+{% for group in site.data.apps %}{% for app in group.apps %}
+  <a class="app-card" href="{{ app.url }}" target="_blank" rel="noopener">
+    <div class="app-card__thumb">
+      <img src="{{ base_path }}{{ app.image }}" alt="Screenshot of {{ app.name }}" loading="lazy" width="640" height="400">
+    </div>
+    <div class="app-card__body">
+      <span class="app-card__group"><i class="{{ group.icon }}" aria-hidden="true"></i> {{ group.group }}</span>
+      <h2 class="app-card__title">{{ app.name }}</h2>
+      <p class="app-card__desc">{{ app.description }}</p>
+      <div class="app-card__footer">
+        <span class="app-card__tags">{% for tag in app.tags %}<span class="app-tag">{{ tag }}</span>{% endfor %}</span>
+        <span class="app-card__open">Open <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+      </div>
+    </div>
+  </a>
+{% endfor %}{% endfor %}
+</div>
+</div>
