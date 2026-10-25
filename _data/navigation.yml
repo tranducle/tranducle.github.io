@@ -29,8 +29,8 @@ main:
   
     
     
-  #- title: "CV"
- #   url: /files/CV2023.pdf
+  - title: "CV"
+    url: /files/CV_Tran_Duc_Le.pdf
     
   #- title: "Guide"
    # url: /markdown/

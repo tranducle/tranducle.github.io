@@ -1,2 +1,6 @@
 _site/
-
+_Delete/
+.DS_Store
+DATA-TO-PUSH/
+.sass-cache/
+.jekyll-cache/

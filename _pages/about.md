@@ -20,7 +20,7 @@ My research interests include network security, malware analysis, cybersecurity 
 
 I teach computer networks, network administration, malware analysis, network security, and network penetration testing courses. I aim to conduct impactful research on pressing cybersecurity issues and prepare the next generation of computer networking and security professionals.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle/).
+My full CV is available here: [CV (PDF)](/files/CV_Tran_Duc_Le.pdf). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tranducle/).
 
 ---------------------------------------------------------------
 📢 **NEWS**  
