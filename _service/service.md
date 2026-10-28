@@ -3,6 +3,9 @@ layout: page
 title: Service
 permalink: /service/
 ---
+**Editorial Board Member**  
+• [Journal of Universal Computer Science (J.UCS)](https://www.jucs.org/) (2026 – Present)
+
 **Journal Reviewer**  
 • [Information](https://www.mdpi.com/journal/information)
 
