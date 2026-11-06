@@ -10,6 +10,15 @@
       description: "An interactive guide to writing every section of a research paper: memorize rhetorical moves, not paragraphs."
       tags: ["Academic Writing", "Guide"]
 
+- group: "AI & Agentic Systems"
+  icon: "fas fa-project-diagram"
+  apps:
+    - name: "Agentic Architectures"
+      url: "https://agentic-architectures.vercel.app/"
+      image: "/images/apps/agentic-architectures.jpg"
+      description: "An interactive field guide to 35 AI agent patterns across 8 families: how each works, when to use it, and how to build it."
+      tags: ["Agentic AI", "Field Guide"]
+
 - group: "Cybersecurity Analytics"
   icon: "fas fa-shield-alt"
   apps:
