@@ -18,6 +18,16 @@
       image: "/images/apps/agentic-architectures.jpg"
       description: "An interactive field guide to 35 AI agent patterns across 8 families: how each works, when to use it, and how to build it."
       tags: ["Agentic AI", "Field Guide"]
+    - name: "PNETLab Lab Agent"
+      url: "https://pnetlab-lab-agent.vercel.app/"
+      image: "/images/apps/pnetlab-lab-agent.jpg"
+      description: "An orchestrated team of AI agents and deterministic checks that builds, verifies, and publishes classroom-ready Cisco network labs for PNETLab."
+      tags: ["PNETLab", "AI Agents"]
+    - name: "CNIT Lab Agent: Networking Fundamentals"
+      url: "https://cnit-lab-agent-site.vercel.app/"
+      image: "/images/apps/cnit-lab-agent-site.jpg"
+      description: "AI-assisted lab development, automated topology verification, and guided validation for computer networking fundamentals."
+      tags: ["Networking Labs", "AI Agent"]
 
 - group: "Cybersecurity Analytics"
   icon: "fas fa-shield-alt"
