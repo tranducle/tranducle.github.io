@@ -46,6 +46,11 @@
 - group: "Teaching Tools"
   icon: "fas fa-chalkboard-teacher"
   apps:
+    - name: "Cyber Security University"
+      url: "https://csuc-website.vercel.app/"
+      image: "/images/apps/csuc-website.jpg"
+      description: "A curated, interactive roadmap of 680+ free learn-by-doing cybersecurity resources across 19 sections, from pre-security to Red/Blue Team paths and CTFs."
+      tags: ["Cybersecurity Education", "Learn by Doing"]
     - name: "IPv4 Virtual Networking Tutor"
       url: "https://ipv4-tutor-cnit133.vercel.app/"
       image: "/images/apps/ipv4-tutor-cnit133.jpg"
