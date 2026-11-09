@@ -24,6 +24,8 @@ My full CV is available here: [CV (PDF)](/files/CV_Tran_Duc_Le.pdf). Feel free t
 
 ---------------------------------------------------------------
 📢 **NEWS**  
+🎉 2026/11/09: I'm excited to share that our paper "_Proportionate defense: a NIST‑aligned cyber risk scoring model for resource-constrained enterprises_" has been published in the journal [Enterprise Information Systems](https://www.tandfonline.com/doi/epdf/10.1080/17517575.2026.2750207?needAccess=true), 2026.
+
 🎉 2026/10/28: I am grateful to have the opportunity to join the Editorial Board of the [Journal of Universal Computer Science (J.UCS)](https://www.jucs.org/). J.UCS has been appearing monthly without interruption since 1995, and is thus one of the oldest existing electronic journals. I look forward to contributing to the journal and supporting the research community in this new role.
 
 🎉 2026/10/14: Congratulations to Thanh An Vu, an undergraduate student at the University of Wisconsin-Stout Polytechnic, on presenting his first research paper, "_Policy-Feedback Temporal Attack Graphs for Typed Multi-Cloud Zero-Trust Analysis_," at the 2026 ASIAN Conference on Communication and Networks (ASIANComNet 2026) in Hanoi, Vietnam, on October 14, 2026. I am pleased to have co-mentored this research with Dr. Truong Duy Dinh.

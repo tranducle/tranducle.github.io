@@ -9,6 +9,8 @@ permalink: /publications/
 
 **2026**
 
+[84] **Le, Tran Duc**, Do, Phuc Hao, Dinh, Truong Duy, Pham, Van Dai, Nguyen, Thi Le Quyen. [Proportionate defense: a NIST‑aligned cyber risk scoring model for resource-constrained enterprises](https://www.tandfonline.com/doi/epdf/10.1080/17517575.2026.2750207?needAccess=true)._Enterprise Information Systems_, DOI: 10.1080/17517575.2026.2750207.
+
 [83] **Le, Tran Duc**, Dinh, Truong Duy. [Security-by-Transformation: A Capability Prioritization Framework for Resource-Constrained SMEs](https://jtde.telsoc.org/index.php/jtde/article/view/1480)._Journal of Telecommunications and the Digital Economy_, DOI: 10.18080/jtde.v14n3.1480.
 
 [82] Vu, Manh Chien, Le-Dinh, Thang, **Le, Tran Duc**, Nguyen, Ngoc Khanh Linh. [Archetypes of digital entrepreneurs: integrating the Big Five and META theories with technological advancements](https://link.springer.com/article/10.1186/s13731-026-00711-z)._Journal of Innovation and Entrepreneurship_, DOI: 10.1186/s13731-026-00711-z.
