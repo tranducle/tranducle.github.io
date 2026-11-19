@@ -7,6 +7,10 @@ permalink: /service/
 • [Journal of Universal Computer Science (J.UCS)](https://www.jucs.org/) (2026 – Present)
 
 **Journal Reviewer**  
+• [Applied Computational Intelligence and Soft Computing](https://onlinelibrary.wiley.com/journal/4795)
+
+• [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security)
+
 • [International Journal of Communication Systems](https://onlinelibrary.wiley.com/page/journal/10991131/homepage/productinformation.html)
 
 • [Information](https://www.mdpi.com/journal/information)
